@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Terapimax: loja nova (sem WordPress)
 
-## Getting Started
+Loja virtual da Terapimax feita em **Next.js** com **Supabase** (banco, login e imagens) e
+**Mercado Pago** (Pix e cartão), pensada para rodar na **Vercel**.
 
-First, run the development server:
+- Vitrine responsiva: home com banners, categorias, busca, página de produto com variações,
+  carrinho, checkout com CEP automático, acompanhamento de pedido, páginas institucionais e blog.
+- Painel em `/admin`: pedidos (status e código de rastreio), produtos, categorias, banners,
+  páginas, blog e configurações (frete, desconto no Pix, WhatsApp, faixa do topo).
+- Os endereços dos produtos (`/produto/...`) e categorias (`/categoria/...`) são os mesmos do
+  WordPress, e páginas que mudaram de nome redirecionam (veja `next.config.ts`), então o Google
+  e links antigos continuam funcionando.
+
+## Colocar no ar (uma vez)
+
+1. **Supabase**: crie um projeto em supabase.com (região São Paulo). No *SQL Editor*, rode
+   `supabase/schema.sql`. Em *Authentication → Users*, crie o seu usuário (e-mail e senha).
+2. **Importar produtos e fotos** do site atual (no seu computador, com Node 22+):
+   ```bash
+   npm install
+   NEXT_PUBLIC_SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... \
+     node scripts/import-to-supabase.mjs --admin seu@email.com.br
+   ```
+   O `--admin` libera esse e-mail no painel. Para liberar outra pessoa depois:
+   `insert into admins (email) values ('pessoa@email.com');` no SQL Editor.
+3. **Vercel**: importe este repositório, cole as variáveis do `.env.example` em
+   *Settings → Environment Variables* e faça o deploy.
+4. **Mercado Pago**: em *Suas integrações*, crie uma aplicação, copie o *Access Token* de
+   produção para `MP_ACCESS_TOKEN` e cadastre o webhook
+   `https://www.terapimax.com.br/api/mercadopago/webhook` (evento *Pagamentos*). A assinatura
+   secreta vai em `MP_WEBHOOK_SECRET`.
+5. **Domínio**: depois de testar no endereço `.vercel.app`, adicione `www.terapimax.com.br` e
+   `terapimax.com.br` na Vercel (*Settings → Domains*) e troque o DNS como ela indicar.
+   Para o blog, adicione também `blog.terapimax.com.br` e redirecione para `/blog`.
+
+Sem as variáveis do Supabase o site abre em **modo demonstração**, lendo `data/seed.json`
+(sem checkout e sem painel). Útil para ver o visual.
+
+## Desenvolvimento
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env.local   # preencha
+npm run dev                   # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`data/seed.json` é gerado do export do WooCommerce por `scripts/build-seed.py`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Como funciona o pagamento
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+O checkout cria o pedido no banco (preços sempre recalculados no servidor) e leva o cliente ao
+Mercado Pago. Quando o pagamento é aprovado, o Mercado Pago avisa o webhook, que confere o
+pagamento direto na API dele e marca o pedido como **Pago**. A partir daí você muda o status
+no painel (Em separação → Enviado com código de rastreio → Entregue).
 
-## Learn More
+## Frete
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Por enquanto o frete é configurado no painel: valor fixo, frete grátis acima de um valor e/ou
+frete grátis no Pix. Cálculo por CEP (Melhor Envio / Correios) é o próximo passo.

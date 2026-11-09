@@ -1,0 +1,1909 @@
+{
+ "settings": {
+  "store_name": "Terapimax",
+  "tagline": "Cuide do seu corpo, você mora nele.",
+  "topbar_text": "PAGUE NO PIX E GANHE FRETE GRÁTIS",
+  "whatsapp": "5511916109651",
+  "email": "suporte@terapimax.com.br",
+  "instagram": "https://www.instagram.com/terapimax_/",
+  "hours": "Seg. a Sex. das 09:00 às 18:00",
+  "free_shipping_min_cents": 0,
+  "flat_shipping_cents": 0,
+  "pix_discount_percent": 0,
+  "pix_free_shipping": true
+ },
+ "banners": [
+  {
+   "title": "Almofada Massageadora",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2021/10/386728_1157672299.jpg",
+   "mobile_image_url": "https://terapimax.com.br/wp-content/uploads/2021/10/386728_9461774162.jpg",
+   "link": "/produto/almofada-3d-shiatsu-terapimax",
+   "sort_order": 0,
+   "active": true
+  },
+  {
+   "title": "Massageador para os pés",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2021/10/386728_9762611721.jpg",
+   "mobile_image_url": "https://terapimax.com.br/wp-content/uploads/2021/10/386728_6721926157.jpg",
+   "link": "/categoria/massageadores",
+   "sort_order": 1,
+   "active": true
+  }
+ ],
+ "categories": [
+  {
+   "slug": "alimentos-e-bebidas",
+   "name": "Alimentos e Bebidas",
+   "description": "",
+   "image_url": null,
+   "sort_order": 1
+  },
+  {
+   "slug": "beleza-e-cuidado-pessoal",
+   "name": "Beleza e Cuidado Pessoal",
+   "description": "",
+   "image_url": null,
+   "sort_order": 2
+  },
+  {
+   "slug": "casa-cozinha-e-jardim",
+   "name": "Casa, Cozinha e Jardim",
+   "description": "",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2023/02/CASA-_-COZINHA.png",
+   "sort_order": 3
+  },
+  {
+   "slug": "cuidado-do-corpo",
+   "name": "Cuidado do Corpo",
+   "description": "",
+   "image_url": null,
+   "sort_order": 4
+  },
+  {
+   "slug": "cuidados-com-a-pele",
+   "name": "Cuidados com a Pele",
+   "description": "",
+   "image_url": null,
+   "sort_order": 5
+  },
+  {
+   "slug": "geleias-doces-e-mel",
+   "name": "Geléias, Doces e Mel",
+   "description": "",
+   "image_url": null,
+   "sort_order": 6
+  },
+  {
+   "slug": "higiene-feminina",
+   "name": "Higiene Feminina",
+   "description": "",
+   "image_url": null,
+   "sort_order": 7
+  },
+  {
+   "slug": "higiene-pessoal",
+   "name": "Higiene Pessoal",
+   "description": "",
+   "image_url": null,
+   "sort_order": 8
+  },
+  {
+   "slug": "lombar-e-cervical",
+   "name": "Lombar e cervical",
+   "description": "",
+   "image_url": null,
+   "sort_order": 9
+  },
+  {
+   "slug": "make-e-acessorios",
+   "name": "Make e Acessórios",
+   "description": "",
+   "image_url": null,
+   "sort_order": 11
+  },
+  {
+   "slug": "massageadores",
+   "name": "Massageadores",
+   "description": "",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2026/02/Massageadores-1.png",
+   "sort_order": 12
+  },
+  {
+   "slug": "mel",
+   "name": "Mel",
+   "description": "",
+   "image_url": null,
+   "sort_order": 13
+  },
+  {
+   "slug": "mercearia",
+   "name": "Mercearia",
+   "description": "",
+   "image_url": null,
+   "sort_order": 14
+  },
+  {
+   "slug": "moda-feminina",
+   "name": "Moda Feminina",
+   "description": "",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2023/02/SAUDE-E-BELEZA.png",
+   "sort_order": 15
+  },
+  {
+   "slug": "pets",
+   "name": "Pets",
+   "description": "",
+   "image_url": "https://terapimax.com.br/wp-content/uploads/2023/02/PARA-PETS.png",
+   "sort_order": 18
+  },
+  {
+   "slug": "sabonetes-intimos",
+   "name": "Sabonetes Íntimos",
+   "description": "",
+   "image_url": null,
+   "sort_order": 19
+  },
+  {
+   "slug": "saude",
+   "name": "Saúde",
+   "description": "",
+   "image_url": null,
+   "sort_order": 20
+  },
+  {
+   "slug": "suplementos",
+   "name": "Suplementos",
+   "description": "",
+   "image_url": null,
+   "sort_order": 22
+  }
+ ],
+ "products": [
+  {
+   "slug": "suplemento-de-curcuma-suplemento-em-capsulas-sem-sabor",
+   "name": "Cúrcuma 95% Curcuminoides 130mg por Dose – 60 Cápsulas Alta Concentração | Suplemento Premium Equilíbrio Vital",
+   "sku": "21006603",
+   "short_description": "",
+   "description": "<p>Descubra o poder da <strong>Cúrcuma Premium com 95% de curcuminoides</strong>, uma fórmula altamente concentrada criada para oferecer suporte ao seu bem-estar e qualidade de vida.</p>\n<p>Produzido com rigoroso padrão de qualidade, este suplemento fornece <strong>130mg por dose</strong>, garantindo alta pureza e eficiência em cada cápsula.</p>\n<p>A cúrcuma é amplamente utilizada por pessoas que desejam manter uma rotina saudável, sendo uma excelente aliada para quem busca mais conforto, mobilidade e equilíbrio no dia a dia.</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2026/03/Curcuma_03-1-152x300.png\" alt=\"\" width=\"348\" height=\"687\" /></p>\n<p> </p>\n<h3>🌿 Principais Benefícios</h3>\n<p>✔ Alta concentração: <strong>95% de curcuminoides</strong><br />✔ <strong>130mg por dose</strong> – potência ideal para uso diário<br />✔ Suporte ao bem-estar e qualidade de vida<br />✔ Auxilia na manutenção de uma rotina saudável<br />✔ Cápsulas práticas e fáceis de consumir<br />✔ Produto premium com excelente padrão de qualidade</p>\n<h3>💎 Diferenciais Exclusivos</h3>\n<ul>\n<li>\n<p>Fórmula concentrada e eficiente</p>\n</li>\n<li>\n<p>Excelente rendimento com <strong>60 cápsulas por frasco</strong></p>\n</li>\n<li>\n<p>Suplemento alimentar seguro e prático</p>\n</li>\n<li>\n<p>Ideal para uso contínuo</p>\n</li>\n<li>\n<p>Produto desenvolvido com alto padrão de pureza</p>\n</li>\n</ul>\n<h3>🎯 Indicado Para</h3>\n<ul>\n<li>\n<p>Pessoas que buscam mais qualidade de vida</p>\n</li>\n<li>\n<p>Quem deseja suporte ao bem-estar diário</p>\n</li>\n<li>\n<p>Rotinas ativas e saudáveis</p>\n</li>\n<li>\n<p>Homens e mulheres adultos</p>\n</li>\n</ul>\n<h3>🎯 Indicado Para</h3>\n<ul>\n<li>\n<p>Pessoas que buscam mais qualidade de vida</p>\n</li>\n<li>\n<p>Quem deseja suporte ao bem-estar diário</p>\n</li>\n<li>\n<p>Rotinas ativas e saudáveis</p>\n</li>\n<li>\n<p>Homens e mulheres adultos</p>\n</li>\n</ul>\n<p> </p>\n<h3>🧠 Invista no seu bem-estar</h3>\n<p>Com um suplemento de alta qualidade e pureza.<br />\nProduto com excelente concentração e ótimo rendimento.</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2026/03/a26283c73e5d633d6e882c8fb36e3c86-1-377x300.jpg\" alt=\"\" width=\"377\" height=\"300\" /></p>\n<h3>Garanta agora e sinta a diferença de uma fórmula premium.</h3>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2026/03/curcuma_05-166x300.jpg\" alt=\"\" width=\"280\" height=\"506\" /></p>",
+   "price_cents": 5104,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/Curcuma01.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/Curcuman_01.png"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim",
+    "saude"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "suplemento-colageno-complex-60-capsulas-x500mg-cuidado-integral-equilibrio-vital-sem-sabor",
+   "name": "Colágeno Complex 500mg com Vitaminas e MSM – 60 Cápsulas | Suplemento Completo para Pele, Cabelos e Unhas – Equilíbrio Vital",
+   "sku": "21006611",
+   "short_description": "",
+   "description": "<p>O <strong>Colágeno Complex da Equilíbrio Vital</strong> é um suplemento alimentar premium desenvolvido para quem busca um cuidado completo com o corpo, aliando colágeno e nutrientes essenciais em uma fórmula avançada.</p>\n<p>Sua composição combina <strong>colágeno com vitaminas antioxidantes e MSM (Metil Sulfonil Metano)</strong>, proporcionando um suporte nutricional completo para sua rotina diária.</p>\n<p>Ideal para quem deseja investir em autocuidado, vitalidade e manutenção da beleza natural de dentro para fora.</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2026/03/colageno-4-202x300.jpg\" alt=\"\" width=\"353\" height=\"524\" /></p>\n<h2>🌿 Fórmula Completa e Avançada</h2>\n<p>Cada cápsula contém uma combinação estratégica de nutrientes essenciais:</p>\n<p>✔ Colágeno – proteína fundamental para o corpo<br />✔ Vitamina C – importante antioxidante<br />✔ Vitamina E – proteção celular<br />✔ Vitamina A – suporte nutricional essencial<br />✔ Vitamina B7 (Biotina) – vitamina da beleza<br />✔ Vitamina B9 – suporte metabólico<br />✔ MSM (Metil Sulfonil Metano) – composto rico em enxofre</p>\n<h2>✨ Principais Benefícios</h2>\n<p>✔ Suporte completo à beleza e bem-estar<br />✔ Fórmula enriquecida com vitaminas essenciais<br />✔ Alta concentração: <strong>500mg por cápsula</strong><br />✔ Auxilia na manutenção de uma rotina saudável<br />✔ Cápsulas práticas e fáceis de consumir<br />✔ Excelente absorção pelo organismo<br />✔ Produto sem sabor</p>\n<h2>📦 Informações do Produto</h2>\n<ul>\n<li>\n<p>Produto: Colágeno Complex</p>\n</li>\n<li>\n<p>Marca: Equilíbrio Vital</p>\n</li>\n<li>\n<p>Quantidade: 60 cápsulas</p>\n</li>\n<li>\n<p>Dosagem: 500mg por cápsula</p>\n</li>\n<li>\n<p>Forma: Cápsulas</p>\n</li>\n<li>\n<p>Categoria: Suplemento alimentar</p>\n</li>\n<li>\n<p>Sabor: Sem sabor</p>\n</li>\n<li>\n<p>Uso: Adulto</p>\n</li>\n</ul>\n<h2>🎯 Diferenciais Exclusivos</h2>\n<ul>\n<li>\n<p>Fórmula completa com múltiplos nutrientes</p>\n</li>\n<li>\n<p>Combinação de colágeno + vitaminas + MSM</p>\n</li>\n<li>\n<p>Excelente rendimento mensal</p>\n</li>\n<li>\n<p>Produto premium de alta qualidade</p>\n</li>\n<li>\n<p>Ideal para rotina de autocuidado</p>\n</li>\n</ul>\n<h2>🧠 Invista em você com uma fórmula completa</h2>\n<p>Desenvolvida para oferecer suporte ao seu cuidado diário.</p>\n<p><strong>Alta qualidade, excelente concentração e praticidade em cápsulas.<br />\n</strong><strong>Garanta agora e eleve seu cuidado a um novo nível.</strong></p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2026/03/a26283c73e5d633d6e882c8fb36e3c86-1-377x300.jpg\" alt=\"\" width=\"377\" height=\"300\" /></p>",
+   "price_cents": 3068,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/colageno_complex.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/colageno_1024_branco.png"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim",
+    "saude"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "suplemento-beleza-colageno-tipo-2-acido-hialuronico-bioceutica-60-capsulas-sem-sabor",
+   "name": "Suplemento Beleza Colágeno Tipo 2 Ácido Hialurônico Bioceutica 60 Cápsulas Sem Sabor",
+   "sku": "21006610",
+   "short_description": "",
+   "description": "<p>Descrição do produto</p>\n<p>Suplemento Ácido Hialurônico e Colágeno Tipo 2 – 60 Cápsulas</p>\n<p>FISIFORT HAIR PREMIUM – Cabelo, Barba e Pele – Cápsulas<br />\nVITAMINAS E MINERAIS<br />\nA Tiamina (VITAMINA B1) – Auxilia no metabolismo energético<br />\nA Niacina (VITAMINA B3) – Auxilia no metabolismo de proteínas, carboidratos e gorduras<br />\nA Biotina (VITAMINA B7) – Contribui para a manutenção da pele e cabelo<br />\nO Zinco – Contribui para a manutenção da pele, cabelo e unhas<br />\nO Cobre – Contribui para a pigmentação da pele e cabelo  </p>\n<p>Recomendações de Uso:<br />\nIngerir 1 cápsula ao dia ou conforme orientação do seu médico ou nutricionista.</p>",
+   "price_cents": 4780,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/f3a4da0e3e97c054584b3c392929fc6f.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "sabonete-liquido-intimo-oleo-de-coco-200ml-bio-instinto",
+   "name": "Sabonete Líquido Intimo Óleo De Coco 200ml Bio Instinto",
+   "sku": "21006605",
+   "short_description": "",
+   "description": "<p>SOBRE O PRODUTO: O Sabonete Líquido Íntimo Bio Instinct foi criado para a higiene íntima, combinando elementos essenciais para uma limpeza eficaz e natural. Oferece uma sensação de frescor e conforto.</p>\n<p>INDICAÇÕES<br />\nIdeal para a higiene feminina diária.</p>\n<p>INFORMAÇÃO<br />\nEste produto tem fórmula aprovada e é testado ginecologicamente; Indicado para uso externo na região genital; Evitar contato com os olhos; Não usar em pele lesionada ou irritada; O uso excessivo pode causar irritação genital; Se ocorrer irritação, interrompa o uso e procure orientação médica.</p>\n<p>COMO USAR<br />\nAplique na região genital externa, massageando suavemente até formar espuma. Enxágue bem após o uso.</p>\n<p>Contém 1 frasco de 200ml.</p>",
+   "price_cents": 1200,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/9169941f4034237444186a36e9d466f2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/220b887ce7685ddab14c2b84aa50a885.jpg"
+   ],
+   "categories": [
+    "sabonetes-intimos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "pomada-milagrosa-150g-bio-instinto-creme-auxilia-na-circulacao-periferica-alivio-de-dor-desconforto-muscular-alivio-imed",
+   "name": "Pomada Milagrosa 150g Bio Instinto Creme Auxilia Na Circulação Periférica Alivio De Dor Desconforto Muscular Alivio Imed",
+   "sku": "21006606",
+   "short_description": "",
+   "description": "<p>Pomada Milagrosa com Açafrão da Terra 150g. Bio Instinto</p>\n<p>A  Pomada com Açafrão da Terra 150g da Bio Instinto, um cosmético massageador que combina a sabedoria tradicional com a eficácia comprovada. Perfeito para quem busca alívio do cansaço muscular e deseja manter a pele desodorizada por até 12 horas após atividades físicas ou esforços do dia a dia.</p>\n<p> Descrição dos Benefícios:</p>\n<p>A Pomada Desodorante Massageadora Milagrosa com Moringa e Açafrão da Terra da Bio Instinto é formulada com uma rica combinação de extratos vegetais, incluindo o poderoso Açafrão da Terra, conhecido por suas propriedades anti-inflamatórias, e a Moringa, que contribui para o bem-estar da pele. Este produto é ideal para promover o relaxamento corporal e auxiliar no alívio de tensões musculares.</p>\n<p>A fórmula inclui também Cânfora e Mentol para uma sensação refrescante e alívio imediato, além de Salicilato de Metila, que é reconhecido por seu efeito analgésico. A pomada é rapidamente absorvida pela pele, tornando a massagem mais efetiva e dispensando enxágue.</p>\n<p> Modo de Usar:</p>\n<p>Aplique a pomada sobre a pele e massageie suavemente até que o produto seja completamente absorvido. A massagem deve ser constante para potencializar os efeitos relaxantes e terapêuticos.</p>\n<p>Informações Técnicas: </p>\n<p>Marca: Bio Instinto<br />\nSKU: 24828<br />\nEAN/Código de Barra: 7908512700902<br />\nLote:0179<br />\nPrazo de Validade: 28/04/2027<br />\nAut. MS.: 2.05121.7</p>\n<p>Advertências e Restrições:</p>\n<p>Uso externo exclusivo.<br />\nNão aplicar em mucosas, olhos ou sobre a pele ferida ou irritada.<br />\nEvite inalação e ingestão.</p>\n<p>Em caso de irritação, interrompa o uso e consulte um médico.<br />\nNão recomendado para indivíduos com sensibilidade a componentes da fórmula, especialmente crianças, gestantes e lactantes.</p>\n<p>Não utilize fontes de calor ou faça oclusão sobre a área aplicada.<br />\nArmazenar em local fresco, ao abrigo da luz e com temperatura inferior a 40°C.<br />\nMantenha fora do alcance de crianças e animais.<br />\nEscolha a Pomada com Açafrão da Terra da Bio Instinto para um cuidado especializado e um relaxamento duradouro. Sinta a diferença que a natureza, aliada à tecnologia, pode fazer pelo seu bem-estar. Disponível agora na loja online Bioverona.</p>",
+   "price_cents": 1536,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/21116331be69cf7aca85cfdbe3181ed8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/fe32bd99ea8e94c06c8f1481121bd3d3.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/c9d9a32cb1eb17555f90283581da5b49.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/710e190a7c218beb4773a973ba5feea0.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "pomada-canela-de-velho-150g-bio-instinto-mentol",
+   "name": "Pomada Canela De Velho 150g Bio Instinto Mentol",
+   "sku": "21006607",
+   "short_description": "",
+   "description": "<p>Kit com 3 Pomadas Canela de Velho 150g<br />\nBenefícios:</p>\n<p>Promoção de relaxamento rápido e eficaz;<br />\nAuxílio no alívio da rigidez e fadiga muscular;<br />\nAção desodorante por até 12 horas, mantendo a pele livre de maus odores durante atividades físicas;<br />\nMelhora o relaxamento corporal após atividades físicas, má postura ou esforço exagerado;<br />\nFórmula inovadora, livre de parabenos e petrolatos, e elaborada com extratos vegetais da flora brasileira.<br />\nSobre o Produto:<br />\nA Pomada Desodorante Massageadora Bio Instinto Canela de Velho com Sebo de Carneiro é a escolha certa para quem busca alívio rápido e relaxamento. Indicada para combater a rigidez e fadiga muscular, promove uma sensação de conforto e bem-estar.</p>\n<p>Diferenciais:</p>\n<p>Produto acompanha Nota Fiscal;<br />\nRelaxamento rápido e eficaz;<br />\nAuxilia no alívio da rigidez e fadiga muscular;<br />\nFórmula cosmética de rápida absorção, desenvolvida com extratos naturais.<br />\nEspecificações:</p>\n<p>Marca: Bio Instinto;<br />\nModelo: Pomada Massageadora;<br />\nApresentação: Bisnaga;<br />\nQuantidade: 150g;<br />\nNº de Processo ANVISA: 25351.052367/2022-73.<br />\nModo de Uso:<br />\nAplique a pomada sobre a pele, massageando até completa absorção. Não enxágue.</p>\n<p>Composição:<br />\nExtrato de Mil-Folhas/Milefólio/Aquileia, Sebo Hidrogenado, Água, Butil-Hidroxitolueno, Butilparabeno, Cânfora, Carbômer, Extrato de Erva de Santa Maria/Mastruz, Extrato de Copaíba, Edetato Dissódico, Etilparabeno, Mentol, Salicilato de Metila, Metilparabeno, Fenoxietanol, Polissorbato 80, Propilparabeno, Trolamina, Extrato de Unha de Gato.</p>\n<p>Itens Inclusos:<br />\n1 Unidade de Pomada Desodorante Massageadora Bio Instinto Canela de Velho com Sebo de Carneiro Bisnaga 150g.</p>\n<p>Observações Importantes:</p>\n<p>Produto indicado apenas para uso externo;<br />\nNão aplicar próximo a mucosas, olhos ou em locais onde a pele estiver lesionada ou irritada;<br />\nNão inalar e jamais ingerir;<br />\nSe houver irritação, descontinuar o uso e procurar orientação médica;<br />\nProduto não recomendado para crianças, gestantes e lactantes;<br />\nDeve ser evitado o uso de aquecimento e oclusão no local de aplicação;<br />\nConservar em temperatura ambiente inferior a 40°C, em local fresco e longe da luz solar;<br />\nManter fora do alcance de crianças e animais domésticos.</p>",
+   "price_cents": 1296,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/5c1f642ad1676b0a16e828648a81b532.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/ccd7d59e1b26e625bb51ffb4b838a600.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/934fd8dced75dd1b8c36853903896a28.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/2643940ec5dacaaf15fb02ef79903a5e.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/c6ea927d99306044f66e74d9db68bb86.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "levedo-de-cerveja-400-comprimidos-com-500mg-equilibrio-vital-sabor-sem-sabor",
+   "name": "Levedo De Cerveja 400 Comprimidos Com 500mg Equilibrio Vital Sabor Sem Sabor",
+   "sku": "21006604",
+   "short_description": "",
+   "description": "<p>Descrição do Produto:</p>\n<p>O suplemento de Levedo de Cerveja 400 comprimidos 500mg Equilíbrio Vital é cuidadosamente formulado para oferecer os benefícios deste componente essencial para a saúde. Contendo 400 comprimidos, este produto é produzido seguindo as rigorosas normas de qualidade e está em conformidade com as diretrizes da ANVISA.</p>\n<p>Principais Características:<br />\n– Auxílio na hidratação e elasticidade da pele: Contribui para uma pele mais hidratada e com aparência mais jovem.<br />\n– Suporte para saúde das articulações: Proporciona lubrificação e suporte ao tecido conjuntivo.<br />\n– Sem glúten: Ideal para quem segue uma diet sem glúten.<br />\n– Isento de aditivos artificiais: Livre de corantes e conservantes artificiais.</p>\n<p>Recomendações de Uso:<br />\nAconselha-se a ingestão de 2 unidades ao dia, ou conforme orientação de um profissional de saúde. Não ultrapassar a recomendação diária.</p>\n<p>Precauções:<br />\nManter em local seco e fresco, longe da exposição direta à luz solar.</p>\n<p>Compromisso com a Qualidade:<br />\nLevedo de Cerveja 400 comprimidos 500mg Equilíbrio Vital é uma escolha excelente para quem busca uma opção natural e eficaz para apoiar a saúde e o bem-estar.</p>",
+   "price_cents": 3756,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/48789dc7d528fa6fb9f6c58ff08494cf.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/411b6522efc37d55c2e749f1e328963a.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/e4c4924d667a5851f7e8f93741c31606.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "ferro-complex-quelato-com-vit-c-b9-b12-e-cobre-equilibrio-60-capsulas-natural",
+   "name": "Ferro Complex Quelato Com Vit C, B9, B12 E Cobre Equilibrio – 60 Cápsulas Natural",
+   "sku": "21006608",
+   "short_description": "",
+   "description": "<p>Uma nutrição equilibrada tem um papel muito importante na qualidade de vida. Com o ritmo acelerado de muitas pessoas, às vezes, é muito difícil prestar atenção a todos os requisitos que o corpo precisa para estar saudável e forte. Neste sentido, os suplementos cumprem a função de complementar a alimentação e ajudam a obter as vitaminas, minerais, proteínas e outros componentes indispensáveis para o correto funcionamento do organismo. </p>\n<p>*Este produto é um suplemento dietético, não é um medicamento. Suplementa Ante dietas insuficientes. Consulte seu médico e / ou farmacêutico.</p>",
+   "price_cents": 2856,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/10d8ee0ea31b243e8ff5efaab085ad6e.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/05a45a927f95db32ca4d01c9df561b8a.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "creme-sebo-de-carneiro-200g-anti-ressecamento-e-rachaduras",
+   "name": "Creme Sebo De Carneiro 200g – Anti Ressecamento E Rachaduras",
+   "sku": "21006609",
+   "short_description": "",
+   "description": "<p>SEBO DE CARNEIRO RHENUKS.</p>\n<p>CADA POTE CONTÉM 200 GRAMAS.</p>\n<p>CREME PARA OS PÉS, MÃOS E COTOVELOS, COM HIDRATAÇÃO INTENSA.<br />\nO CREME SEBO DE CARNEIRO RHENUKS FOI DESENVOLVIDO PARA HIDRATAÇÃO PROFUNDA DOS PÉS, MÃOS E COTOVELOS.  </p>\n<p>ENRIQUECIDO DE URÉIA E CACAU, EVITA O RESSECAMENTO DEIXANDO A PELE MAIS MACIA E SEDOSA POR MUITO MAIS TEMPO.  </p>\n<p>OS RESULTADOS COMEÇAM A APARECER NOS PRIMEIROS DIAS DE USO!  </p>\n<p>MODO DE USAR: APLICAR O CREME SOBRE A PELE RESSECADA, MASSAGEANDO ATÉ A COMPLETA ABSORÇÃO DO PRODUTO.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/124fa58c7f5cf8a36c8569b3725e3ad2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/a76afe52712bcbe35afa173885f637c1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/3b079bfb052459da85fcbbcb55484afe.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/f8e6bc4ce5449269a6395103a82d32b7.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d503e4411d1eebad3710f848ba12f151.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/3f0452c9a10c62c0b5f90b8db19121d1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "zinco-60-capsulas-teor-max-12mg-equilibrio-sabor-sem-sabor",
+   "name": "Zinco 60 Cápsulas Teor Max 12mg Equilíbrio Sabor Sem Sabor",
+   "sku": "21006595",
+   "short_description": "",
+   "description": "",
+   "price_cents": 2288,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/a4f00b1f45d6d2ff892f6272b5243a70.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "vitamina-e-240mg-60-capsulas-sabor-sem-sabor",
+   "name": "Vitamina E 240mg 60 Cápsulas Sabor Sem Sabor",
+   "sku": "21006599",
+   "short_description": "",
+   "description": "<p>Informações Gerais: Unidades: 1 Marca: Equilíbrio Vital Formato: Cápsulas Número de unidades: 60 Tamanho: 240mg por cápsula Descrição do Produto: A Vitamina E 240mg 60 cápsulas Equilíbrio Vital é um suplemento alimentar que contém vitamina E em uma concentração de 240mg por cápsula. A vitamina E é um poderoso antioxidante que desempenha um papel importante na proteção das células contra os danos causados pelos radicais livres. A vitamina E tem sido amplamente estudada por seus potenciais benefícios à saúde, incluindo o suporte ao sistema imunológico, a saúde cardiovascular e a saúde da pele. Além disso, ela também pode ajudar a combater o estresse oxidativo e promover a saúde dos olhos. O suplemento de Vitamina E Equilíbrio Vital é fabricado com ingredientes de alta qualidade e passa por rigorosos processos de controle de qualidade para garantir a sua eficácia e segurança. Fabricante: O produto é fabricado pela Equilíbrio Vital, uma marca reconhecida por seus suplementos de alta qualidade.</p>\n<p>Uma nutrição equilibrada tem um papel muito importante na qualidade de vida. Com o ritmo acelerado de muitas pessoas, às vezes, é muito difícil prestar atenção a todos os requisitos que o corpo precisa para estar saudável e forte. Neste sentido, os suplementos cumprem a função de complementar a alimentação e ajudam a obter as vitaminas, minerais, proteínas e outros componentes indispensáveis para o correto funcionamento do organismo. </p>\n<p>*Este produto é um suplemento dietético, não é um medicamento. Suplementa Ante dietas insuficientes. Consulte seu médico e / ou farmacêutico.</p>",
+   "price_cents": 3354,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/6920f497395aa3ba69ffa73be3a4c70d.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "vita-k2-8-em-1",
+   "name": "Vita K2 – 8 em 1",
+   "sku": "19551105",
+   "short_description": "",
+   "description": "<p>Redescubra o poder de uma pele firme, brilhante e sem sinais do tempo.</p>\n<p>Maciez, firmeza, hidratação profunda e rejuvenescimento com a tecnologia Vita K2.</p>\n<p><strong>O que é VitaK2?</strong></p>\n<p>VitaK2 é um suplemento em cápsulas formulado com uma combinação única de ingredientes cientificamente selecionados para promover o rejuvenescimento da pele, combater rugas e marcas de expressão, e proporcionar uma aparência mais jovem.</p>\n<p>Hidratação profunda</p>\n<p>Mais firmeza e elasticidade</p>\n<p>Clareia e uniformiza a pele</p>\n<p>Alivia danos causados pelo tempo</p>\n<p>Reduz “pés de galinha” e “bigode chinês”</p>\n<p>Bloqueia radicais livres</p>\n<p>Vita K2 é a transformação para uma pele radiante</p>\n<p>A mais recente tecnologia japonesa utilizada para devolver a firmeza, a hidratação e combater as marcas do tempo!</p>\n<p>Diga adeus à oleosidade</p>\n<p>Combo de vitaminas que renovam a pele</p>\n<p>Exclusiva tecnologia K2 antissinais</p>\n<p>Ilumine-se: Adeus manchas</p>\n<p>Hidratação profunda e firmeza instantânea!</p>\n<p>Menos acne</p>\n<p>Com alta concentração de vitamina K2 combinada com 8 ingredientes naturais potencializadores, Vita K2 é o tratamento mais avançado da atualidade. Único capaz de reduzir rugas, linhas de expressão e manchas na pele de forma natural e gradual.</p>\n<p>Com isso, o tratamento requer continuidade, uso diário, para que haja a absorção de até 89% dos nutrientes. Com fórmula hiperconcentrada, cada cápsula de Vita K2 é capaz de acelerar o processo de reconstrução de rugas e linhas de expressão.</p>\n<p>Testada e desenvolvida por especialistas</p>\n<ul>\n<li>Ácido Hialurônico:</li>\n</ul>\n<p>Reconhecido por seu incrível poder de retenção de água, o ácido hialurônico atua como uma esponja molecular, mantendo a pele hidratada e preenchendo naturalmente rugas e linhas de expressão.</p>\n<ul>\n<li>Silício Orgânico:</li>\n</ul>\n<p>O silício orgânico desempenha um papel crucial na produção de colágeno e elastina, proporcionando sustentação à pele. Sua presença essencial contribui para uma aparência firme e rejuvenescida.</p>\n<ul>\n<li>Colágeno Verisol:</li>\n</ul>\n<p>A ciência por trás do Colágeno Verisol é inigualável. Ao ser absorvido, estimula a produção de colágeno próprio da pele, resultando em uma redução notável de rugas e uma pele mais elástica e resiliente.</p>\n<ul>\n<li>Vitamina K2:</li>\n</ul>\n<p>Essencial para a saúde vascular, a Vitamina K2 contribui para uma microcirculação adequada, auxiliando na redução de olheiras e promovendo uma tez mais uniforme e rejuvenescida. É a grande chave de nossa fórmula.</p>\n<ul>\n<li>Vitamina C:</li>\n</ul>\n<p>Além de estimular a síntese de colágeno, a vitamina C age como um poderoso antioxidante, protegendo a pele contra danos causados pelos radicais livres e proporcionando um brilho radiante.</p>\n<ul>\n<li>Retinol:</li>\n</ul>\n<p>O retinol, derivado da vitamina A, estimula a renovação celular, reduzindo a aparência de rugas e promovendo uma textura mais suave e uniforme.</p>\n<ul>\n<li>Vitamina E:</li>\n</ul>\n<p>A vitamina E é fundamental na proteção das células contra os danos causados pelos radicais livres, ajudando a preservar a elasticidade da pele e minimizando os sinais visíveis de envelhecimento.</p>\n<ul>\n<li>Vitamina D:</li>\n</ul>\n<p>Rejuvenescimento Profundo: A vitamina D desempenha um papel crucial na regulação da expressão genética e na renovação celular, contribuindo para um rejuvenescimento mais profundo e duradouro.</p>\n<p>Tudo que você precisa é tomar 2 cápsulas ao dia. É importante, para que você tenha melhores resultados, tomar todos os dias as 2 cápsulas. Cada pote tem 60 cápsulas, um pote dura 1 mês.</p>\n<p><!-- notionvc: 9b9bed61-45ee-4f7c-b027-954249561ba0 --></p>\n<p> </p>",
+   "price_cents": 19700,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/177be800d6ed432a92ebee928c8a17dd.webp"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": false,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "suplemento-vitaminico-supraervas-sem-sabor-60-capsulas",
+   "name": "Suplemento Vitamínico Supraervas Sem Sabor 60 Cápsulas",
+   "sku": "21006596",
+   "short_description": "",
+   "description": "<p>Uma nutrição equilibrada tem um papel muito importante na qualidade de vida. Com o ritmo acelerado de muitas pessoas, às vezes, é muito difícil prestar atenção a todos os requisitos que o corpo precisa para estar saudável e forte. Neste sentido, os suplementos cumprem a função de complementar a alimentação e ajudam a obter as vitaminas, minerais, proteínas e outros componentes indispensáveis para o correto funcionamento do organismo.</p>\n<p>A cota de vitaminas que seu corpo precisa<br />\nIncorporamos vitaminas regularmente através de produtos ricos em antioxidantes: vegetais, frutas, chá-verde e frutos secos, entre outros. No entanto, há momentos em que podem ser consumidos em forma de suplementos quando no se consegue incorporar quantidades suficientes através dos alimentos. </p>\n<p>*Este produto é um suplemento dietético, não é um medicamento. Suplementa Ante dietas insuficientes. Consulte seu médico e / ou farmacêutico.</p>",
+   "price_cents": 4580,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/13db709442561ad37f5bfd893206a1e2-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "suplemento-alimentar-oleo-de-alho-sabor-sem-sabor-puro-com-60-caps-equilibrio-vital",
+   "name": "Suplemento Alimentar Óleo De Alho Sabor Sem Sabor Puro Com 60 Caps Equilibrio Vital",
+   "sku": "21006585",
+   "short_description": "",
+   "description": "<p>O Óleo de Alho é extraído do bulbo do alho, contendo vitaminas A e C, riboflavina, piridoxina, selênio, iodo, ferro, zinco e fitoquímicos como a alicina. </p>\n<p>Este composto possui propriedades antioxidantes que protegem contra danos causados pelos radicais livres, sendo um suplemento valioso para a saúde. </p>\n<p>1. Composição Rica: O Óleo de Alho contém uma variedade de nutrientes essenciais, incluindo vitaminas e minerais.</p>\n<p>2. Ação Antioxidante: Graças à presença de alicina, o alho tem propriedades antioxidantes que combatem os radicais livres. </p>\n<p>3. Benefícios Cardiovasculares:</p>\n<p>*Este produto é um suplemento dietético, não é um medicamento. Suplementa ante dietas insuficientes. Consulte seu médico e / ou farmacêutico antes de usá-lo!</p>",
+   "price_cents": 2900,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/477e912027bf32f62557bd72d4fae7c8-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/7cdb5700093d812edb1b5db1c1b56e13-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/a26283c73e5d633d6e882c8fb36e3c86-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/7ff3999cdb22bfd9c4cf13e48d9c8602-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "sabonete-petalas-de-rosas-200ml-bio-instinto-limpeza-suave-e-delicada",
+   "name": "Sabonete Pétalas De Rosas 200ml Bio Instinto – Limpeza Suave E Delicada",
+   "sku": "21006592",
+   "short_description": "",
+   "description": "<p>Bem-vindo(a) à Raiz da Terra!</p>\n<p>É uma alegria ter você por aqui.<br />\nAntes de finalizar sua compra, pedimos que só clique em “comprar” se tiver certeza absoluta, pois arcamos com comissões mesmo em pedidos cancelados. Combinado?<br />\nSomos uma loja autorizada a revender os produtos da Distribuidora Natuvel, reconhecidos pelo excelente custo-benefício e pela qualidade aprovada por nossos clientes.<br />\nConte com a gente para cuidar da sua saúde e bem-estar com seriedade, qualidade e respeito.</p>\n<p>Descrição do Produto:<br />\nSabonete Íntimo Pétalas de Rosas – Bio Instinto Cosméticos<br />\nDescrição do Produto: O Sabonete Íntimo Pétalas de Rosas da Bio Instinto Cosméticos é um produto desenvolvido para o cuidado delicado da região íntima feminina. Com uma fórmula suave e equilibrada, proporciona uma sensação de frescor e limpeza prolongada, respeitando o pH natural da pele.</p>\n<p>Benefícios:<br />\nUso Diário: Adequado para uso diário, garantindo conforto e higiene contínua.<br />\nPreserva o pH Natural: Formulado para manter o equilíbrio do pH natural da região íntima, essencial para a saúde vaginal.<br />\nDermatologicamente Testado: Testado por dermatologistas, assegurando a segurança e eficácia do produto.<br />\nGinecologicamente Testado: Aprovado por ginecologistas, garantindo que é seguro para uso na área íntima.<br />\nPrevine Odor Desagradável: Auxilia na prevenção de odores indesejados, proporcionando uma sensação de frescor.<br />\nLimpeza Prolongada: Oferece uma sensação de limpeza duradoura ao longo do dia.<br />\nProteção Intima Diária: Protege a região íntima contra agentes externos, mantendo-a saudável.<br />\nSuavidade: Fórmula suave, que não irrita a pele sensível da região íntima.<br />\nFeito com Extratos Naturais: Enriquecido com extratos naturais, que promovem cuidados delicados e eficazes.</p>\n<p>0% Parabenos: Livre de parabenos, preservando a saúde da pele e reduzindo o risco de alergias e irritações.</p>\n<p>Modo de Uso: Aplique uma pequena quantidade do sabonete íntimo na palma da mão, espalhe na região íntima externa previamente molhada, massageando suavemente. Enxágue abundantemente com água. Pode ser usado diariamente.</p>\n<p>Precauções:</p>\n<p>Uso externo.<br />\nEvite contato com os olhos.<br />\nEm caso de irritação, descontinue o uso e consulte um médico.<br />\nMantenha fora do alcance de crianças.<br />\nConteúdo: 200 ml</p>\n<p>O Sabonete Íntimo Pétalas de Rosas da Bio Instinto Cosméticos é a escolha ideal para mulheres que buscam um cuidado íntimo diário eficaz, seguro e com a delicadeza dos extratos naturais de rosas. Experimente e sinta a diferença na sua rotina de higiene pessoal.</p>",
+   "price_cents": 1200,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/9f102bd279e6cb1fd5c09b2be16076a3-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/fa8416be177c6b322e1775f82b82adea-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/bec7974f4644012aed1ebe09811fb614-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/dd071bb4883bf63b7394d319cbba1b1a-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/b8552bc256566a2bebbd0ec6b7c3cf66-1.jpg"
+   ],
+   "categories": [
+    "sabonetes-intimos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "sabonete-liquido-intimo-blueberry-extrato-naturais-diario",
+   "name": "Sabonete Liquido Intimo Blueberry Extrato Naturais Diario",
+   "sku": "21006590",
+   "short_description": "",
+   "description": "<p>Descrição do Produto:<br />\n**Sabonete Íntimo 10 Benefícios Blueberry 200ml Bio Instinto**</p>\n<p>INDICAÇÕES<br />\nApenas para órgãos genitais externos. Não aplicar próximo aos olhos e/ou em locais onde a pele estiver lesionada ou irritada. Em caso de irritação descontinuar o uso e procurar orientação médica. Para o uso do produto durante a gravidez, consulte um médico. Este produto foi formulado de maneira a minimizar possível surgimento de alergia. O excesso do uso do produto pode ser uma fonte de irritação genital. Conservar em temperatura ambiente inferior a 40°C, em local fresco e longe da luz solar. Manter fora do alcance de crianças e animais domésticos.</p>\n<p>INFORMAÇÕES<br />\n• Cruelty Free<br />\n• 10 Benefícios:<br />\n• Uso diário<br />\n• Preserva o pH natural<br />\n• Ginecologicamente testado<br />\n• Dermatologicamente testado<br />\n• Previne odores indesejados<br />\n• Limpeza prolongada<br />\n• Proteção íntima diária<br />\n• Suavidade<br />\n• Feito com extratos naturais<br />\n• 0% parabenos  </p>\n<p>MODO DE USO<br />\nAplique o sabonete íntimo na região genital externa com movimentos suaves até obter espuma e enxágue em seguida.  </p>\n<p>Contém 1 frasco de 200ml.</p>",
+   "price_cents": 1200,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/b04ee4d38f33e1dd4d84a45ef9913f3d-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/8a9e91111f1dd597795aa30fae128644-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/9cfb47cc2a3732d03886a7f5ee8fc377-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/418ea0339be1443b51be6d85f1c32920-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/21cf207ae1f98e1cae3e24b4212190d1-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/919bf84c18cc8a254072e696b5d02c95-1.jpg"
+   ],
+   "categories": [
+    "sabonetes-intimos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "sabonete-liquido-intimo-bebeloo-tutti-fruti-limpeza-delicada",
+   "name": "Sabonete Líquido Íntimo Bebeloo Tutti Fruti Limpeza Delicada",
+   "sku": "21006589",
+   "short_description": "",
+   "description": "<p>SABONETE LÍQUIDO ÍNTIMO BEBELOO TUTTI FRUTTI</p>\n<p>O Sabonete Líquido Íntimo Bebeloo Tutti Frutti limpa com delicadeza e suavidade a região íntima, proporcionando uma sensação refrescante e perfumada com a deliciosa fragrância de Tutti Frutti.</p>\n<p>CONTÉM:</p>\n<p>1x Sabonete Líquido Íntimo Bebeloo Tutti Frutti</p>\n<p>DICAS DE USO:</p>\n<p>– Aplique uma pequena quantidade do sabonete na região íntima úmida.<br />\n– Massageie suavemente até formar espuma.<br />\n– Enxágue abundantemente com água.<br />\n– Use diariamente.</p>\n<p>O sabonete íntimo Bebeloo Tutti Frutti foi desenvolvido com fórmula suave, trazendo sensação de bem estar, conforto e liberdade que toda mulher precisa, inclusive naqueles dias. Possui pH equilibrado, frescor e um perfume delicioso!</p>\n<p>Com cheirinho de chiclete e lembrança da infância. Possui sistema pH Control que mantém o pH íntimo equilibrado por 24 horas. Aprovado por médicos dermatologistas e ginecologistas.</p>\n<p>BENEFÍCIOS:</p>\n<p>– Limpeza suave e eficaz da região íntima.<br />\n– Sensação de frescor e perfumada com Tutti Frutti.<br />\n– Mantém o equilíbrio natural da flora íntima.<br />\n– Calmante e anti-inflamatório.<br />\n– Hidrata e nutre a pele.<br />\n– Hipoalergênico e dermatologicamente testado.<br />\n– Sem parabenos, corantes e fragrâncias artificiais.<br />\n– Seguro para uso diário.</p>\n<p>COMPOSIÇÃO:</p>\n<p>Água, corante laranja 15510, corante vermelho amaranto 16185, dietanolamina, cocamida, cocamidopropil, betaína, edetato dissódico, dimetilidatoína, ácido láctico, mentol, perfume, diestearato de Peg-150, extrato da folha de aroeira, cloreto de sódio, sulfato de sódio laurete, extrato da casca de barbatimão, limoneno.</p>",
+   "price_cents": 1200,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/b7e170c1922c5ce3689a872632df2651-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/6044c8b51267083455f0fd32818d2c59-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/ae9e48cdb03986e2d21240f243259b6b-1.jpg"
+   ],
+   "categories": [
+    "sabonetes-intimos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "sabonete-intimo-frutas-vermelhas-barbatimao-e-aroeira-200ml",
+   "name": "Sabonete Íntimo Frutas Vermelhas Barbatimao E Aroeira 200ml",
+   "sku": "21006602",
+   "short_description": "",
+   "description": "<p>O Sabonete Íntimo Frutas Vermelhas Aromas do Brasil Bio Instinto foi desenvolvido para o cuidado diário da higiene íntima feminina, oferecendo limpeza suave, frescor e equilíbrio prolongado. Sua fórmula conta com sistema pH Control, que auxilia na manutenção do pH íntimo equilibrado por até 24 horas, respeitando a flora natural da região.</p>\n<p>Aprovado por médicos dermatologistas e ginecologistas, é indicado para acompanhar a rotina da mulher brasileira no dia a dia, sendo especialmente recomendado durante o período menstrual e após a depilação, momentos que exigem maior delicadeza e proteção. Possui fragrância agradável de frutas vermelhas, textura leve, espuma suave e enxágue fácil, proporcionando conforto e sensação de bem-estar.</p>\n<p>Modo de usar<br />\nAplique o sabonete íntimo na região genital externa, realizando movimentos suaves até formar espuma. Enxágue bem em seguida.</p>\n<p>Composição<br />\nÁgua, Dietanolamina Cocamida, Cocamidopropil Betaína, Edetato Dissódico, Dimetilidantoína, Ácido Láctico, Mentol, Perfume, Diestearato de PEG-150, Extrato da Folha de Aroeira, Cloreto de Sódio, Sulfato de Sódio Laurete, Corante Laranja 15510, Corante Vermelho Amaranto 16185.</p>",
+   "price_cents": 1200,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/19a52ddaac96bbd3fd5f9df71b967de3-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/56aff54c675739cea0e02f2fda9c5c1d-1.jpg"
+   ],
+   "categories": [
+    "sabonetes-intimos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "propomax-extrato-aquoso-de-propolis-s-alcool-30ml-apisflora",
+   "name": "Propomax Extrato Aquoso De Própolis S/ Álcool 30ml Apisflora",
+   "sku": "21006588",
+   "short_description": "",
+   "description": "<p>Extrato de Própolis Verde Puro Propomax 30ml Apis Flora é um aliado no aumento da imunidade e oferece outros benefícios indispensáveis para uma imunidade robusta.</p>\n<p>Este extrato tem diversas aplicações, como acelerar a regeneração dos tecidos, a cicatrização e desinfecção de feridas ou queimaduras, secar espinhas, tratar dor de garganta, gripe, sinusite e amigdalite e auxiliar no tratamento de problemas respiratórios, incluindo tosse irritativa ou com catarro.</p>\n<p>A própolis apresenta ação efetiva contra bactérias como a H. pylori, Salmonella, além de combater fungos como a Candida albicans e vírus como o do herpes e da gripe. Fortalece o sistema imunológico e combate os radicais livres, compostos que prejudicam o organismo.</p>\n<p>PROPOMAX é produzido com extrato de própolis verde, obtido com tecnologia exclusiva da Apis Flora, que preserva a alta concentração dos bioativos em um produto sem álcool.</p>\n<p>Fabricado por: Apis Flora<br />\nRegistro no Ministério da Agricultura: 0052/3733</p>\n<p>Produto dispensado da obrigatoriedade de registro conforme a RDC nº240/2018</p>",
+   "price_cents": 5780,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d054c1147f2f6cae5ce46c5f9d98ac2d-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/a78a65bb0141a4bf75a6457d61481fd3-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/4e6669efd46c47c32a8017468e94e277-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/56cdf03e18400228162716ba0a2e31bf-1.jpg"
+   ],
+   "categories": [
+    "mel"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "propomalva-spray-propolis-30ml-apis-flora",
+   "name": "Propomalva Spray Própolis 30ml – Apis Flora",
+   "sku": "21006597",
+   "short_description": "",
+   "description": "<p>PROPOMALVA Spray é um spray bucal a base de própolis que é uma substância natural, balsâmica, coletada e transformada pelas abelhas que a utilizam na desinfecção dos favos, protegendo a colmeia de bactérias, fungos e vírus e mais sete ativos naturais: extrato de malva, extrato de alcaçuz, extrato de sálvia, extrato de tanchagem, óleo essencial de eucalipto, óleo essencial de menta e óleo essencial de cravo.</p>\n<p>LISTA DE INGREDIENTES<br />\nPropolis extract (extrato de própolis), Malva sylvestris extract (extrato de malva), Salvia officinalis extract (extrato de sálvia), Glycyrrhiza glabra root extract (extrato de alcaçuz), Plantago major leaf extract (extrato de tanchagem), Eucalyptus globulus leaf oil (óleo de eucalipto), Mentha piperita oil (óleo de menta), Eugenia caryophyllus bud oil (óleo de cravo) e honey (mel).</p>",
+   "price_cents": 3840,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/237b5f31d5662fe35fee0f3c59e5564a-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/e02536f18002638c334f3bc3a88c1474-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d63c3b8a83a011e73669abf16dd09a69-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/9fb64b59130c452c3462c19dcb36dd97-1.jpg"
+   ],
+   "categories": [
+    "mel"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "pomada-massageadora-tira-com-a-mao-150g-alivio-dor-corporal-bio-instinto-neutra",
+   "name": "Pomada Massageadora Tira Com A Mão 150g Alívio Dor Corporal Bio Instinto Neutra",
+   "sku": "21006593",
+   "short_description": "",
+   "description": "<p>A massoterapia de relaxamento é uma série de movimentos realizados com as mãos aplicadas no corpo especificamente nos tecidos moles, para promover uma sensação de alivio muscular produzindo instantaneamente efeitos de relaxamento, conforto e bem-estar. Os benefícios da massoterapia são visivelmente potencializados com o uso concomitante da Pomada Massageadora Tira com a Mão Bio Instinto, que auxilia na melhora da circulação periférica e relaxa imediatamente a área do corpo onde foi aplicada.</p>\n<p>Modo de usar:</p>\n<p>Indicado para suavizar desconfortos musculares</p>\n<p>Composição:</p>\n<p>Aqua, Arnica Montana Flower Extract, BHT, Camphor, Carbomer, Chenopodium Ambrosioides Leaf/Stem Extract, Copaifera Reticulata Balsam Extract, Disodium EDTA, DMDM Hydantoin, Menthol, Methyl Salicylate, Methylisothiazolinone, Ozonized Turpentine, Piper Nigrum Fruit Extract, Polysorbate 80, Triethanolamine.</p>\n<p>Contudo do pacote = 1 Unidade</p>",
+   "price_cents": 1428,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/31124a8d24c53c1a283c5cbe91412fc7-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/6ff1260a5e02c1053f3df7ec22c76022-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/b3f83677951179889e78d1c1dc9fe68a-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/494490b35097283d5d875f1b72d0e25f-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "oleo-de-primula-60-capsulas-equilibrio-60g-sabor-sem-sabor",
+   "name": "Óleo De Prímula 60 Cápsulas – Equilíbrio 60g Sabor Sem Sabor",
+   "sku": "21006601",
+   "short_description": "",
+   "description": "<p>O Óleo de Prímula da Equilíbrio Vital é um suplemento alimentar em cápsulas que contém 750 mg por unidade, com 60 cápsulas no frasco.</p>\n<p>Este óleo é reconhecido por seu potencial em auxiliar na saúde feminina, especialmente no alívio dos sintomas da TPM e da menopausa. </p>\n<p>Além disso, pode ajudar na manutenção da saúde da pele e no equilíbrio hormonal. </p>\n<p>Com um foco em ingredientes naturais, o Óleo de Prímula é uma opção para quem busca apoio nutricional para o bem-estar geral.</p>",
+   "price_cents": 5190,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d1ac95dcf439a354606cdc8089bb8a5e-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "l-triptofano-equilibrio-vital-60capsulas-500mg-natural",
+   "name": "L- Triptofano Equilibrio Vital 60cápsulas 500mg Natural",
+   "sku": "21006584",
+   "short_description": "",
+   "description": "<p>Uma nutrição equilibrada tem um papel muito importante na qualidade de vida. Com o ritmo acelerado de muitas pessoas, às vezes, é muito difícil prestar atenção a todos os requisitos que o corpo precisa para estar saudável e forte. Neste sentido, os suplementos cumprem a função de complementar a alimentação e ajudam a obter as vitaminas, minerais, proteínas e outros componentes indispensáveis para o correto funcionamento do organismo.</p>\n<p>A cota de vitaminas que seu corpo precisa<br />\nIncorporamos vitaminas regularmente através de produtos ricos em antioxidantes: vegetais, frutas, chá-verde e frutos secos, entre outros. No entanto, há momentos em que podem ser consumidos em forma de suplementos quando no se consegue incorporar quantidades suficientes através dos alimentos. </p>\n<p>*Este produto é um suplemento dietético, não é um medicamento. Suplementa Ante dietas insuficientes. Consulte seu médico e / ou farmacêutico.</p>",
+   "price_cents": 3780,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d12b6b2bb301230fe97dd4e6ea0b4985-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "gel-massageador-pra-tudo-200g-rhenuks-alivia-dor",
+   "name": "Gel Massageador Pra Tudo 200g Rhenuks – Alívia Dor",
+   "sku": "21006594",
+   "short_description": "",
+   "description": "<p>Gel Massageador Mm Pra Tudo Rhenuks é um produto elaborado com fórmula exclusiva para auxiliar na massagem corporal, oferecendo uma suave refrescância e sensação de alívio e frescor.</p>\n<p>INDICAÇÕES: dores na coluna, costas, ombros, pescoço, peito, articulações, canelas, tornozelos, joelhos, abdômen, braços, pernas, coxas, mãos, pés e cotovelos.</p>\n<p>MODO DE USAR: Aplique no local desejado, massageando até total absorção do produto.</p>\n<p>PRECAUÇÕES: Manter fora do alcance das crianças. Não utilizar sobre a pele irritada ou lesionada. Evitar contato com os olhos. Não utilizar durante a gravidez. Em caso de reações adversas, suspender o uso e procurar orientação médica. Manter ao abrigo da luz e em temperatura abaixo de 40°C. Uso externo.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/6ddea145e8328a5492fa0ebe58b8af5b-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/27dca45e4144d5cd3c48593807a4f4f7-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/ad9cba83ada0b04622828f4f1d1af029-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/e16d424fe4b4d6401d2342b9a18b78e2-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/bb9f0f930b9019690b748b8f580c1726-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/641efb7823b2e439b42dd1894222ee27-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "gel-massageador-ice-premium-ora-pro-nobis-extra-forte-coluna-tipo-de-embalagem-pote-fragrancia-mentol",
+   "name": "Gel Massageador Ice Premium Ora Pro Nobis Extra Forte Coluna Tipo De Embalagem Pote Fragrância Mentol",
+   "sku": "21006586",
+   "short_description": "",
+   "description": "<p>A Rhenuks oferece uma variedade de produtos para os cuidados do corpo. Se você deseja proteger sua pele e mantê-la saudável, essa é uma boa opção.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/7c575b842f5a73ff33954658e94b7550-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/bdbbd2dbea96c29e50a375efbef91caf-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d12f37dbb97a1f0e1dccdaa9424872ed-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/561e47f122e1d604c9b9edc5ea34c5d6-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/fa0dc635839a891aca714dfca262c022-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/43f173331fad300992a5484d834ac076-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/2f1dd989f0ab7bfff516dc0451bd22f9-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/ee15e1956e6cb965e29c84555f11c93a-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/1bcd54825acdaf15675c1f726a3c30ec-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/673219eb93a23ef4110f40e6127683cb-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "gel-massageador-cartilagem-de-tubarao-omega-3-rhenukus-200g-mentol",
+   "name": "Gel Massageador Cartilagem De Tubarão Ômega 3 Rhenukus 200g Mentol",
+   "sku": "21006598",
+   "short_description": "",
+   "description": "<p>Gel Massageador Cartilagem de Tubarão com Ômega-3 – Conforto e Nutrição para Pele e Articulações<br />\nExperimente o poder rejuvenescedor do Gel Massageador Cartilagem de Tubarão com Ômega-3, uma fórmula inovadora que combina ingredientes naturais para proporcionar alívio, nutrição e bem-estar. Este gel é sua escolha ideal para uma massagem que vai além do relaxamento, oferecendo cuidado e revitalização para a pele e articulações.<br />\nCaracterísticas e Benefícios:</p>\n<p>Cartilagem de Tubarão: Um ingrediente naturalmente poderoso, conhecido por promover a saúde das articulações e dos tecidos conectivos. Este componente chave contribui para o alívio de desconfortos articulares, melhorando a mobilidade e a flexibilidade.<br />\nRico em Ômega-3: O Ômega-3, famoso por suas propriedades anti-inflamatórias e nutritivas, é essencial para a saúde da pele. Ele ajuda a reduzir inflamações e nutrir a pele, resultando em uma aparência mais saudável e radiante.<br />\nMassagem Revigorante: Com uma textura suave que facilita a aplicação, o gel proporciona uma massagem relaxante, ajudando a aliviar a tensão muscular e a fadiga, enquanto oferece uma hidratação profunda à pele.<br />\nHidratação e Nutrição: Este gel não apenas relaxa, mas também hidrata e nutre a pele, deixando-a mais suave, flexível e revitalizada.</p>\n<p>Modo de Usar: Para uma experiência de massagem completa, aplique o gel sobre a pele limpa, focando nas áreas de tensão muscular e articulações. Massageie suavemente até que o produto seja totalmente absorvido. Ideal para uso diário ou conforme necessário.<br />\nPrecauções:</p>\n<p>Uso externo apenas.<br />\nEvite contato direto com os olhos e mucosas.<br />\nNão usar em pele irritada ou lesionada.<br />\nEm caso de irritação, suspender o uso e procurar orientação médica.<br />\nManter fora do alcance de crianças e animais.<br />\nArmazenar em local fresco e ao abrigo da luz direta.</p>\n<p>Anvisa/AFE: 2.05.64-0 – Processo Anvisa nº 25351.979493/2016-49<br />\nO Gel Massageador Cartilagem de Tubarão com Ômega-3 pode proporcionar alívio e nutrição. É a solução perfeita para quem busca uma massagem terapêutica com benefícios adicionais de cuidados com a pele e articulações.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/d32279e862c3adfa9bfdc9b9c102f60e-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/15bbcb7c0b6c545466408cd82fdefee6-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/cfd08b22a453f32bfc6954814aec90a7-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/e8a06fdef22a79462f18143246082314-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/4f97e866ec531027d822f5ffdf77fdc5-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "gel-20-ervas-extra-forte-200g-para-dores-musculares",
+   "name": "Gel 20 Ervas Extra Forte 200g Para Dores Musculares",
+   "sku": "21006587",
+   "short_description": "",
+   "description": "<p>Gel 20 Ervas Extra Forte 200g</p>\n<p>Gel 20 Ervas Extra Forte 200g é ideal para os cuidados do corpo, especialmente para aliviar dores musculares. Com uma duração de efeito de até 6 horas, este gel é perfeito para aplicação em diversas áreas como abdomem, articulações, costas, cotovelos, joelhos, ombros, pescoço, pernas e tornozelos. Formulado com cânfora, proporciona uma fragrância agradável durante o uso. Indicado para todos os tipos de pele, este produto vem em um pote de 200g e possui consistência em gel, garantindo fácil aplicação e absorção. Mantenha sua pele protegida e saudável com o Gel 20 Ervas Extra Forte.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/5933abd35c5205d82a6b21f8687991eb-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/19718de18dd46cd4e4ca15c8ac0c98fb-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/6ffc1177dd09e3901decb56bf3e6c066-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/e47be12ec6b2a38c936f5fc9e650ad8a-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "creme-hidratante-sebo-de-carneiro-pes-e-maos-c-mel-ureia-3",
+   "name": "Creme Hidratante Sebo De Carneiro Pés E Mãos C/ Mel Ureia 3%",
+   "sku": "21006583",
+   "short_description": "",
+   "description": "<p>A Bio Instinto oferece uma variedade de produtos para os cuidados do corpo. Se você deseja proteger sua pele e mantê-la saudável, essa é uma boa opção.</p>",
+   "price_cents": 1066,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/9a8477f738ac5fa53562442d53b00cc8-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/908377eac469a608e130eb2bd5606b6e-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/8bd343dbf6a02e7be5f1ae88f63bbf76-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/70b851f7c12cd016c4bdffd7a8743305-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/edb250d8702bd5b19aa8fa11311470a8-1.jpg"
+   ],
+   "categories": [
+    "cuidado-do-corpo"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "cranberry-equilibrio-60-caps-e-revitalizante-sabor-sem-sabor",
+   "name": "Cranberry Equilíbrio 60 Caps – E Revitalizante Sabor Sem Sabor",
+   "sku": "21006591",
+   "short_description": "",
+   "description": "",
+   "price_cents": 4642,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/8582b11c14d773a2e55cca719792d087-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "colageno-tipo-ii-equilibrio-vital-com-vitamina-c-60-capsulas-sem-gluten-sem-sabor",
+   "name": "Colágeno Tipo Ii Equilibrio Vital Com Vitamina C 60 Cápsulas Sem Glúten Sem Sabor",
+   "sku": "21006600",
+   "short_description": "",
+   "description": "<p>Descrição do Produto:<br />\nO suplemento de Colágeno Tipo 2 Com Vitamina C 60 Cápsulas 500mg Equilíbrio é cuidadosamente formulado para oferecer os benefícios deste componente essencial para a saúde. Contendo 60 cápsulas, este produto é produzido seguindo as rigorosas normas de qualidade e está em conformidade com as diretrizes da ANVISA.</p>\n<p>Principais Características:<br />\n– Auxílio na hidratação e elasticidade da pele: Contribui para uma pele mais hidratada e com aparência mais jovem.<br />\n– Suporte para saúde das articulações: Proporciona lubrificação e suporte ao tecido conjuntivo.<br />\n– Sem glúten: Ideal para quem segue sem glúten.<br />\n– Isento de aditivos artificiais: Livre de corantes e conservantes artificiais.</p>\n<p>Recomendações de Uso:<br />\nAconselha-se a ingestão de 2 unidades ao dia, ou conforme orientação de um profissional de saúde. Não ultrapassar a recomendação diária.</p>\n<p>Precauções:<br />\nManter em local seco e fresco, longe da exposição direta à luz solar.</p>\n<p>Compromisso com a Qualidade:<br />\nColágeno Tipo 2 Com Vitamina C 60 Cápsulas 500mg Equilíbrio é uma escolha excelente para quem busca uma opção natural e eficaz para apoiar a saúde e o bem-estar.</p>",
+   "price_cents": 5434,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/58bcf5c713f2b2e93431d2a8319744af-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/03/1180bb64bdee46e6ea5d5c09542bbbb5-1.jpg"
+   ],
+   "categories": [
+    "suplementos"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "vibramax-pro",
+   "name": "Vibramax Pro",
+   "sku": null,
+   "short_description": "",
+   "description": "<p>O massageador corporal vibramax pro é um equipamento profissional de alta qualidade que pode ser usado tanto em clinicas de estética quanto no conforto da sua casa. Ele possui um design moderno e uma estrutura leve, possibilitando maior tempo de massagem sem cansar os braços.</p>\n<p>Com uma massagem de percussão vigorosa e intensa, ele é capaz de auxiliar no alívio de dores e tensões musculares casados pela rotina do dia-a-dia. Ele trabalha relaxando o local de aplicação e melhorando a circulação, proporcionando uma sensação de bem estar e relaxamento.</p>",
+   "price_cents": 44900,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/03/cf36280beb8db5a39354da7f8db75ed9.webp"
+   ],
+   "categories": [
+    "lombar-e-cervical"
+   ],
+   "options": [],
+   "in_stock": false,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "massageador-para-os-pes-relax-pro-fisiopower",
+   "name": "Massageador para os Pés Fisiopower",
+   "sku": "2ozaJXdxYl",
+   "short_description": "<h2>Massageador para os Pés Relax Pro Fisiopower™ – Alívio Profundo para Dores, Inchaço e Cansaço</h2>\n<p>Seus pés doem no final do dia? Sente inchaço, cansaço ou desconforto constante ao ficar muito tempo em pé?</p>\n<p>O <strong>Relax Pro Fisiopower™</strong> foi desenvolvido para proporcionar uma massagem relaxante e estimulante nos pés, tornozelos e panturrilhas, ajudando a aliviar dores, reduzir o inchaço e melhorar a circulação sanguínea — tudo isso no conforto da sua casa ou estabelecimento.</p>\n<h3>Indicado para:</h3>\n<ul>\n<li>✔ Idosos que sofrem com dores e má circulação</li>\n<li>✔ Pessoas que trabalham muito tempo em pé</li>\n<li>✔ Quem sofre com fascite plantar</li>\n<li>✔ Profissionais da beleza (cabeleireiros, manicures, podólogos)</li>\n<li>✔ Clínicas e espaços terapêuticos que desejam agregar valor ao atendimento</li>\n</ul>\n<h3>Benefícios que você sente já nos primeiros minutos:</h3>\n<ul>\n<li>✔ Alívio imediato da dor e da tensão muscular</li>\n<li>✔ Redução do inchaço nos pés e tornozelos</li>\n<li>✔ Estímulo à circulação sanguínea</li>\n<li>✔ Sensação profunda de relaxamento</li>\n<li>✔ Auxilia na recuperação após longos períodos em pé</li>\n</ul>\n<h3>Tecnologia de Massagem Inteligente</h3>\n<p>Com sistema de vibração bidirecional e 3 níveis de intensidade ajustáveis, o Relax Pro Fisiopower™ permite personalizar sua experiência de acordo com sua necessidade — desde um relaxamento leve até uma massagem mais estimulante.</p>\n<p>Possui temporizador com desligamento automático para maior segurança e praticidade.</p>\n<h3>Ideal para uso profissional</h3>\n<p>Salões de beleza, clínicas de estética e podologia utilizam o massageador como diferencial competitivo, oferecendo conforto aos clientes durante procedimentos ou integrando ao protocolo de atendimento.</p>\n<h3>Especificações Técnicas</h3>\n<ul>\n<li><strong>Voltagem:</strong> Bivolt automático</li>\n<li><strong>Potência:</strong> 50W</li>\n<li><strong>Níveis de intensidade:</strong> 3 ajustes</li>\n<li><strong>Movimento:</strong> Sistema bidirecional</li>\n<li><strong>Desligamento automático:</strong> Sim</li>\n<li><strong>Alimentação:</strong> Corrente elétrica</li>\n<li><strong>Zonas de aplicação:</strong> Pés, tornozelos e panturrilhas</li>\n</ul>\n<h3>Mais qualidade de vida todos os dias</h3>\n<p>Transforme seus momentos de descanso em uma verdadeira experiência de cuidado e bem-estar. Sinta seus pés leves novamente após poucos minutos de uso.</p>\n<p><strong>Garantia de satisfação.</strong><br />\nCompra segura e envio rápido para todo o Brasil.</p>\n<p> </p>",
+   "description": "",
+   "price_cents": 186000,
+   "compare_at_cents": 190000,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-4.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-3.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-5.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-7.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-6.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-9.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/massageador-para-os-pes-relax-pro-1.png"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 2,
+   "active": true
+  },
+  {
+   "slug": "massageador-para-os-pes-terapimax-pro",
+   "name": "Massageador para os Pés Black Pro",
+   "sku": null,
+   "short_description": "",
+   "description": "",
+   "price_cents": 170000,
+   "compare_at_cents": 180000,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/4f3c-a7a3-a2ea630b3bb4-Photoroom.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107307.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107308.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107311.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107314.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107320.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107317.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1721107304.jpg"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": true,
+   "is_new": true,
+   "is_featured": false,
+   "rating": 0.0,
+   "review_count": 1,
+   "active": true
+  },
+  {
+   "slug": "colete-massageador-premium",
+   "name": "Colete Massageador Premium",
+   "sku": "21006577",
+   "short_description": "",
+   "description": "<p><strong>Colete Massageadora Premium com Infravermelho: Especialmente para Cervical, ombros, costas e lombar.<br />\nSua fonte de relaxamento definitiva.</strong></p>\n<p>Alivie as tensões do pescoço e costas após um dia cansativo!<br />\nGarante relaxamento total e renovação das energias após os dias longos de trabalho.</p>\n<p>Com designer único e moderno, apresentamos o Colete de Massagem Premium Terapimax com 1 motor e 4 bulbos de massagem ainda mais potente para o total relaxamento muscular, aumento da circulação sanguínea, diminuição das dores musculares, alívio da fadiga muscular e diminuição do stress e tensões.</p>\n<p>O Colete de Massagem Premium Terapimax é anatômico para uma boa moldagem e encaixe no design do corpo humano, pescoço e ombros.</p>\n<p>Com ele você consegue relaxar e aliviar as tensões dos músculos cansados, garantindo uma sensação agradável por todo seu corpo. Graças ao seu design inteligente, o Colete de Massagem Premium facilita o uso em diversas regiões do corpo principalmente a cervival, lombar, 3 possições na coluna, panturrilhas e glúteos.</p>\n<p>Garantia de 1 ano.</p>",
+   "price_cents": 109900,
+   "compare_at_cents": 138000,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1b0de6805ed87954c86d9d7d61283676-2-scaled.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/promo_pe_pret-scaled.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/1b0de6805ed87954c86d9d7d61283676-1-scaled.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/f536762cf9bcc7d41ad8aa95757510c8-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/promo_colete4-scaled.jpg"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "massageador-capilar-com-12-hastes",
+   "name": "Massageador Capilar com 12 Hastes",
+   "sku": "1222",
+   "short_description": "",
+   "description": "",
+   "price_cents": 2500,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/83107805d6f6b7bade2e0bf8ac52673d.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/f7e252de66a2b3b35da2374c325517f2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/6c56870a4dc8e4003432411c985e35fa.jpg"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "assento-4-em-1-massagem-total",
+   "name": "Assento 4 em 1 Massagem Total",
+   "sku": "12",
+   "short_description": "",
+   "description": "",
+   "price_cents": 209900,
+   "compare_at_cents": 249500,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/a4283f516acc0a19eb0bcd286c268fbf.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/4700f173af8029fffd96e99ef03eeb40.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/20476c01eefd3a287ce85e24ce8b8ee6.png"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": false,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "almofada-premium-terapimax",
+   "name": "Almofada Premium Terapimax",
+   "sku": "0000008",
+   "short_description": "",
+   "description": "<p><strong>### Almofada Massageadora Terapimax com Infravermelho: Sua fonte de relaxamento definitiva.</strong></p>\n<p>Imagine chegar em casa após um longo dia e ter à sua disposição uma massagem profissional sempre que desejar. A Almofada Massageadora com Infravermelho não é apenas um acessório de conforto, ela é a chave para o alívio do estresse e dores musculares, diretamente no conforto do seu lar.</p>\n<p>Com uma combinação poderosa de massagem por rotação e terapia de calor infravermelho, nossa almofada trabalha profundamente nos seus músculos, aliviando tensões acumuladas e melhorando a circulação sanguínea. Sinta a diferença à medida que o calor suave penetra em seus tecidos, promovendo um relaxamento profundo e duradouro.</p>\n<p>Benefícios que você vai adorar:<br />\n– Alívio Imediato do Estresse: A massagem direcionada relaxa seus músculos tensos, proporcionando alívio imediato para o seu dia a dia.<br />\n– Melhora da Circulação: O calor infravermelho ajuda a aumentar a circulação, promovendo a regeneração muscular e reduzindo a dor.<br />\n– Praticidade Total: Portátil e fácil de usar, a almofada pode ser utilizada em casa, no trabalho ou onde você estiver.<br />\n– Multifuncional: Ideal para costas, pescoço, ombros e pernas, é perfeito para relaxar todas as áreas do corpo.<br />\n– Estimula o sono.</p>\n<p>Não deixe que o estresse controle a sua vida. Com a Almofada Massageadora com Infravermelho, o poder do relaxamento está ao seu alcance, sempre que você precisar. Invista em seu bem-estar hoje e descubra como é fácil se sentir renovado, todos os dias.</p>\n<p>Garantia de 1 ano.</p>",
+   "price_cents": 70000,
+   "compare_at_cents": 78000,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/111dbe4257ea3c64e02b44147642a6e6.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/09ad87b4434b82afe2598d48d0d2c799.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/0924da546d735c26228993773a6e99b8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/9bc3e907f32f481dc2386dc9d2d37c86.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/f38abd88cc607ffda8499f5857d1c571.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/283335103ca77e0c5fb5761135e9836d.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/ead79e974a1687443d66ded7726cfdce.jpg"
+   ],
+   "categories": [
+    "lombar-e-cervical",
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "almofada-3d-shiatsu-terapimax",
+   "name": "Almofada 3D Shiatsu Terapimax",
+   "sku": "AodAKPEe1B",
+   "short_description": "",
+   "description": "",
+   "price_cents": 90000,
+   "compare_at_cents": 125000,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2026/02/c6105273c0e9e8bf25418266142dab4f.png",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/28eed1e837897d3594920bc598de0333.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/249fd2ca90372158206cfd099c67dc4f.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/da7f5c4e9e51714c54917211be905deb.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/a8a3dff2e3cfbbfd28a4e6b2bdb91442.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/be7bbdf8bc47e81ce0caeef8e30dbf1b.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/bb1335a477efa58856b18b8e68d45e81.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/d508187e3089ea3c3741dd0dc6db009a.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/c2f04546e28b84d82db13a1bfd79df23.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2026/02/ae22334eb97abe2b7309c87e012a10e0.jpg"
+   ],
+   "categories": [
+    "massageadores"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 0.0,
+   "review_count": 0,
+   "active": true
+  },
+  {
+   "slug": "oximetro-de-dedo-digital",
+   "name": "Oxímetro de Dedo Digital",
+   "sku": "200007763:203372089",
+   "short_description": "",
+   "description": "<h3>Proteja você e sua família com o melhor Oxímetro de Dedo Digital!</h3>\n<p>Em tempos de Pandemia nada melhor do que ter o nível de oxigênio no sangue monitorado constantemente.</p>\n<p>Com o <strong>Oxímetro de Dedo Digital</strong>você tem a forma mais simples e fácil de medir a<strong>saturação de oxigênio</strong>no sangue e<strong>frequência cardíaca</strong>de idosos, adultos e crianças! Níveis baixos de oxigênio no sangue prejudicam o funcionamento do corpo e podem sobrecarregar os pulmões, coração e o cérebro. Por isso a importância deste equipamento que mostra quando a saturação está baixa antes mesmo de sintomas como falta de ar surgirem.</p>\n<p>A leitura se dá de maneira rápida e precisa; acima de<strong>95%</strong>a saturação está<strong>normal</strong>. Abaixo de 94% já ascende um sinal de alerta e deve-se consultar um especialista.</p>\n<a href=\"https://www.smart-mercado.com/collections/beleza-e-saude/products/oximetro-dedo\" title=\"Oxímetro de Dedo\" target=\"_blank\" rel=\"noopener\"><img alt=\"oximetro de dedo\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/a5cb7e42-4f68-4b22-965f-abac29cbcbd4.jpg?v=1641741496\" width=\"519\" height=\"509\"></a>\n<h3>Vantagens do Oxímetro de Dedo Digital:</h3>\n<ul>\n<li>\n<p>Mede com<strong>precisão</strong>a saturação de oxigênio no sangue (SpO2) e a frequência cardíaca em menos de 8 segundos;</p>\n</li>\n<li>\n<p><strong>Simples</strong>, rápido, prático e portátil;</p>\n</li>\n<li>\n<p>Molde de silicone confortável não machuca o dedo;</p>\n</li>\n<li>\n<p><strong>Display de Led</strong>de alta definição facilita a visualização em qualquer condição de luminosidade;</p>\n</li>\n<li>\n<p>Não invasivo, não dói e pode ser usado por idosos, adultos e crianças.</p>\n</li>\n</ul>\n<h3>Como Usar</h3>\n<p>O uso é simples: deve-se colocar o aparelho em algum dos dedos das mãos e esperar até se ter uma leitura adequada da oxigenação e frequência cardíaca.</p>\n<a href=\"https://www.smart-mercado.com/collections/beleza-e-saude/products/oximetro-dedo\" title=\"Oxímetro de Dedo\" target=\"_blank\" rel=\"noopener\"><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/0d79ab2b-d270-4256-b9dd-ac3eb2ba4cf5_1.png?v=1641741469\" alt=\"oximetro digital de dedo\" width=\"535\" height=\"434\"></a>\n<a href=\"https://www.smart-mercado.com/collections/beleza-e-saude/products/oximetro-dedo\" title=\"Oxímetro de Dedo\" target=\"_blank\" rel=\"noopener\"><img alt=\"oximetro digital\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Icone_saturacao_de_oxigenio_1_1.png?v=1641741486\" width=\"534\" height=\"483\"></a>\n<p><strong>Especificações:</strong></p>\n<ul>\n<li>Material: ABS</li>\n<li>Alimentado por 2 pilhas AAA (não inclusas)</li>\n<li>Medidas: 3.1*5.5*3cm</li>\n<li>Pacote inclui 1<strong>Oxímetro de Dedo Digital</strong>\n</li>\n</ul>",
+   "price_cents": 5890,
+   "compare_at_cents": 8990,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Ud531f3d41285490ca5bd5e367bbedad70.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/U2e74f4355d094e4d992a6a19f243426eH.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Ucfbc4d3bf6594ccc9f2fbb8902fe4567K.jpg"
+   ],
+   "categories": [
+    "saude"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": true,
+   "rating": 4.2,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "mini-umidificador-de-ar-portatil",
+   "name": "Mini Umidificador de Ar Portátil",
+   "sku": "8090856358195",
+   "short_description": "",
+   "description": "<p>Indicado para regiões com baixa umidade do ar, ambientes com ar condicionado, pessoas com pele seca, ressecamento no nariz e garganta, doenças respiratórias causadas pelo ar seco, sensação de irritação ou para melhorar a qualidade e conformo do ar no ambiente!</p>\n<p><strong><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/mainimage0Mini-umidificador-de-ar-ultrass-nico-difusor-de-leo-essencial-220ml-l-mpada-led-purificador-de_480x480.jpg?v=1633970969\"></strong></p>\n<p><strong><img alt=\"Mini umidificador de ar ultra-sônico, luz romântica USB difusor purifi\" src=\"https://empreender.nyc3.digitaloceanspaces.com/dropi/614c7e4ebcbe1.gif\"></strong></p>\n<p>Portátil, silencioso e de fácil uso.</p>\n<p>Produz névoa com duração de 5 horas no modo contínuo ou 10 horas no modo intermitente.</p>\n<p>Possui luz de led, desligamento automático em caso de falta de água, alimentação por USB e funcionamento ultra sônico, formando uma névoa a partir da vibração da água sem a necessidade de produzir calor.</p>\n<p><img height=\"986\" width=\"533\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/H1236996b703449f193edce8820a72ea8D.jpg\"></p>\n<p><img alt=\"Compre Umidificador de ar ultrassônico mini difusor de aromaterapia de óleo  essencial portátil para home office carro 220ml barato — frete grátis,  avaliações reais com fotos — Joom\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/93d9a8f12d348356fa2e153ebbec9799ebe85fd7_original.jpeg\" width=\"529\" height=\"529\"></p>\n<p><strong>Características:</strong></p>\n<p>1. Super Silencioso: Corre silenciosamente. Não seria perturbador enquanto você dorme.<br />2. Grande capacidade, proteção seca, infiltração e hidratação.<br />3. Proteção de falha de energia automática, anti-seco.<br />4. Mini tamanho, leve e compacto, fácil de transportar.</p>\n<p><strong>Especificações:</strong></p>\n<p>Cor: Branco, Rosa e Verde. <br />Tensão de Funcionamento: dc 5v. <br />Material: Silicone/pp/abs/componente eletrônico. <br />Quantidade de Spray: 40 ml/h. <br />Corrente de Trabalho: 400mA. <br />Capacidade do Tanque de Água: 220ml. <br />Tempo de Uso: 5 -10h. <br />Fonte de Alimentação: USB. <br />Área Aplicável: 10-20 metros quadrados. <br />Ruído: Menos de 36db.</p>\n<p><strong>O pacote Inclui:</strong></p>\n<p>1 umidificador. <br />1 filtro. <br />1 cabo USB.</p>",
+   "price_cents": 8690,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hfa5119dcf60b40cd967dba8228378bc5T_ac064600-69fa-498b-a71e-00d0487cdea2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H5a34b5e12f804cb989784911d6c30b8aW_692ff161-4147-4ba6-a3f6-4cb54c7389bc.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H9a42f445567e4b53b7108ce2d38b4852R_30793e35-cade-47e6-a443-8fc1d07ebc10.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H3cbffd31e7d64edbb04aec02d8d78d754.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H30abc5d8da544c01bee5202777209f73i.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hcc95a61e750e4c77b198e63e523c8099Q.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H93fd100aca5b43a7ba9bf93c1251018am_c6c4a6a9-92fc-4594-b076-fa4f0904e954.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Branco",
+      "Verde",
+      "Rosa"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": true,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.4,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "mini-selador-de-embalagens",
+   "name": "Mini Selador de Embalagens",
+   "sku": "8090855932211",
+   "short_description": "",
+   "description": "<p>Chega de perder seus alimentos por não ter selado devidamente as embalagens.</p>\n<p><img alt=\"Mini Selador Portátil – Start 24 Horas\" src=\"https://cdn.shopify.com/s/files/1/0613/9694/3069/files/GIF_24-01-2022_20-10-20_480x480.gif?v=1643066057\"></p>\n<p>Agora com o<strong>Mini Selador de Embalagens</strong>você iráconservar por muito mais tempo o seu lanche, fruta, comidas e vegetais se livrando de fungos e bactérias</p>\n<p>Quais tipos de embalagem é possível selar? É possível lacrar qualquer tipo de embalagem plástica ou laminada, preservando o aroma dos alimentos e sua higiene.</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/product-image-1841842300.jpg?v=1637178482\" alt=\"Mini selador de embalagens – Best Shop\"></p>\n<p>Coloque o saco para ser selado no meio e, em seguida, deslize-o ao longo da borda de qualquer saco em uma velocidade lenta e constante para conseguir um selo hermético. Não é adequado para sacos de papel puros e sacos de alumínio puro.</p>\n<p>Segure-o por 5 segundos antes do uso e, em seguida, deslize-o ao longo da borda de qualquer saco para selá-lo.<br><br></p>\n<h3>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/download_1_480x480.png?v=1648836332\" alt=\"\" width=\"676\" height=\"602\"><br>Instruções:</h3>\n<ul>\n<li>Insira 2 pilhas AA <strong>(pilhas não incluídas)</strong>.</li>\n<li>Desbloqueie a cobertura de segurança/protetora para a posição para baixo.</li>\n<li>Pressione a máquina de selagem para pré-aquecer por 5-7 segundos.</li>\n<li>A superfície do saco necessário para achatamento é selada ao longo da borda.</li>\n<li>Coloque o aferidor plástico no saco e pressione firmemente.</li>\n<li>Quando pressionado, mover moderadamente de uma extremidade para a outra</li>\n<li>Finalmente afrouxe a capa protetora e, em seguida, movê-lo de volta para a posição para cima.</li>\n</ul>\n<h3>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/download_2_480x480.png?v=1648836233\" alt=\"\" width=\"640\" height=\"457\"><br>Especificação:</h3>\n<p><strong>Material:</strong>Material abs de alta qualidade, resistente a altas e baixas temperaturas. Não-tóxico e durável.<br><strong>Tamanho:</strong>9.7cm * 3cm.<br><strong>Cores:</strong>Rosa/Branco.</p>",
+   "price_cents": 8290,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hd9cde29b146e4423a02a67f6c4e67a87b.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Ub1eb27e8e01c4ce9ba15eb5668c09e86U.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Ucb1dc2ebafbb4622884c9cb459f41f4fy.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/U254cd129793848bea42a9e94145dcba2C.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Uc30f47b452d848dfa922f49acff8303bH.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Branco",
+      "Rosa"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": true,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "mini-liquidificador-portatil-usb",
+   "name": "Mini Liquidificador Portátil USB",
+   "sku": "8090855637299",
+   "short_description": "",
+   "description": "<p>Já imaginou fazer o seu shake preferido em qualquer lugar e a qualquer momento?</p>\n<p>Pois é, com o Mini Mixer Portátil você pode. Tenha liberdade de misturar seus shakes favoritos, vitaminas, sucos e até mesmo alimentos para bebês, em qualquer lugar, sem as limitações de um liquidificador.<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/mini_liquidificador_portatil_6_laminas_juice_cup_shake_vitaminas_usb_academia_4335_1_20200727223223.jpg\" alt=\"Mini Liquidificador Portátil 6 Lâminas Juice Cup - Shake Vitaminas Usb  Academia\" width=\"526\" height=\"526\"></p>\n<p><strong>SUPER PRÁTICO E EFICAZ: </strong>É fácil e conveniente de usar em casa, no trabalho, ao ar livre, na academia, no carro, na praia, nas férias ou onde quer que o dia o leve.<img height=\"344\" width=\"536\" src=\"https://cdn.shopify.com/s/files/1/0094/6153/0729/files/gif_3_large.gif?v=1560522539\" alt=\"Liquidificador Portátil Usb 6 Láminas – Loja CompraFlix\"></p>\n<p><strong>RESISTENTE À ÁGUA: </strong>Você não precisa se preocupar caso caia líquido na entrada do carregador ou submergir acidentalmente seu Mini Mixer Portátil na pia ou na piscina. É o Mixer ideal para qualquer tipo de ambiente.</p>\n<p><img height=\"541\" width=\"541\" alt=\"Mini Liquidificador Portátil Shake Take Juice Cup 4 Lâminas Recarregável |  Shopee Brasil\" src=\"https://cf.shopee.com.br/file/96e20b14964155dbb9983124e4c0fc3a\"> <strong>BENEFÍCIOS E DIFERENCIAIS DO NOSSO PRODUTO: </strong></p>\n<p>✔︎ TAMANHO COMPACTO, PORTÁTIL E MULTIUSO.<br></p>\n<p>✔︎ BATERIA INTERNA RECARREGÁVEL.<br></p>\n<p> ✔︎ MOTOR DE ALTA VELOCIDADE.<br></p>\n<p> ✔︎ 6 LÂMINAS PARA MÁXIMA EFICIÊNCIA.<br></p>\n<p> ✔︎ COADOR INTEGRADO E ALÇA DE TRANSPORTE.</p>\n<p>Você mistura e bebe na mesma garrafa. O presente ideal para amigos e para você mesmo, por ser portátil e com design revolucionário permite ser levado para academia, viagens e até mesmo em escritório.</p>\n<p><strong>CUIDADOS:</strong></p>\n<p>Não utilizar em micro-ondas.</p>\n<p>Não lavar na máquina lava-louças.</p>",
+   "price_cents": 18490,
+   "compare_at_cents": 19990,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H333a9c18e1434570b8c1370d6c29bcf4X.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H83df768e6b564ae288c7b9c708fdb1b89.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H2f36ab77f793419b8f5b8ac886f1bf19p.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H476bc8c4688541c08879f2572bc51118p.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H2c022fb7b04f4bcc90d7273923af407dR.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hfe5506c49877442fad8aecb07ee88f30k.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hd14d9f91ca144708958b8dd23c237e287.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hb395cf0ee773464fb33bf9e83c3c1f0c7.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H5e55396184024b218ddfa8ffda27cdebN.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Azul",
+      "Rosa",
+      "Roxo",
+      "Verde"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": true,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.4,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "electric-heating-pads-for-arthritis-knee-pain-relief-infrared-heated-therapy-recovery-elbow-knee-pad-brace-health-care-usb-cable",
+   "name": "Massageador de joelho recarregavel – USB",
+   "sku": "8097193361715",
+   "short_description": "",
+   "description": "",
+   "price_cents": 13599,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Seaf2b28abfd44bc787b6ec1f8d02b4c7h.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sa0edf69e2aa948679160c954a3ab87ddc.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S68831bf80c9f413d84e209cad0d7129dC.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S41390fc86435449c8eb362139b3e2021v.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S1354beb3060b486eb0a82fc85ef6053fk.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc7b04e79a508432eb2a2da0ab051bac59.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S8d51333ec26047eab82b37cc85ff6560r.jpg"
+   ],
+   "categories": [
+    "saude"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "1pc USB Cable",
+      "2pc USB Cable"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.8,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "luva-de-silicone-para-alta-temperatura",
+   "name": "Luva de Silicone para Alta Temperatura",
+   "sku": "8090855604531",
+   "short_description": "",
+   "description": "<sectionshowShippingEstimator\": false,\n  \"showQuantitySelector\": true,\n  \"showPaymentButton\": false,\n  \"showInventoryQuantity\": false,\n  \"lowInventoryThreshold\": 0,\n  \"galleryTransitionEffect\": \"fade\",\n  \"enableImageZoom\": true,\n  \"zoomEffect\": \"outside\",\n  \"enableVideoLooping\": false,\n  \"productOptions\": [\"Cor\"],\n  \"enableHistoryState\": true,\n  \"infoOverflowScroll\": true,\n  \"isQuickView\": false\n}\"></p>\n<h4>Garanta a<strong>segurança</strong>da sua família e nunca mais queime as mãos enquanto cozinha.<br />\n</h4>\nConstantemente nos deparamos com situações perigosas ao cozinhar ou mesmo preparando aquele churrasco, não é mesmo?</p>\n<p>Quer você seja um Chef profissional, um entusiasta de grelhados ou um novato na cozinha, é importante manter seus dedos e mãos seguros enquanto prepara a comida.\n<p>Esta incrível luva vai mudar a sua realidade na cozinha. </p>\n<p><img alt=\"Luva de silicone resistente ao calor WALFOS\" src=\"https://cdn.shopify.com/s/files/1/0065/1876/7671/files/g1_ce0fa68f-b0b6-475d-a0ec-52efd54be117_480x480.gif?v=1601260732\" width=\"532\" height=\"532\"></p>\nA Luva de Silicone Térmica Para Alta Temperatura Master Chef foi confeccionada em fibras sintéticas e fibras naturais, revestimento da face palmar, face palmar dos dedos e ponta dos dedos em borracha vulcanizada; punho com fibras elásticas e acabamento em fibras sintéticas.\n<br>\n<strong>O sonho de todo bom churrasqueiro e cozinheiro, não é mesmo?!</strong>\nAlém do mais, esta Luva Protetora possui formato anatômico, reduz a fadiga muscular, e resiste à até 200°C.\n<br>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/WhatsApp_Image_2021-06-01_at_17.51.03_1_480x480.jpg?v=1622586017\" alt=\"Luva de Silicone Térmica Para Alta Temperatura MasterChef\">\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/WhatsApp_Image_2021-06-01_at_17.51.03_2_480x480.jpg?v=1622586118\" alt=\"Luva de Silicone Térmica Para Alta Temperatura MasterChef\">\nNão importa se você é um excelente chef ou um novato na cozinha, é importante<br>sempre manter as mãos seguras enquanto você está preparando sua comida,<br>especialmente quando você está próximo(a) de altas temperaturas.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/luva-termica-de-silicone-para-cozinha_480x480.jpg?v=1629207559\">\n<h5>CARACTERÍSTICAS:<br><br />\n</h5>\n<ul>\n<li>100% impermeável, permite uma gama diversificada de uso em praticamente toda culinária.</li>\n<li>Design pensado para permitir o movimento seguro de itens quentes.</li>\n<li>Nenhuma coloração ou cheiro mesmo após o uso a longo prazo.</li>\n<li>Pode ser lavada em máquina de lavar louça .</li>\n<li>Feitas de Silicone.</li>\n</ul>",
+   "price_cents": 9290,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1vdU0SpXXXXbQXXXXq6xXFXXXt.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1P2UJSpXXXXaDXFXXq6xXFXXXi.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1oiAzSpXXXXaLXVXXq6xXFXXXv.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1TpMfSpXXXXaWapXXq6xXFXXXt.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1NEZfSpXXXXXNapXXq6xXFXXXZ.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1HaoGSpXXXXcaXFXXq6xXFXXXW.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/HTB1u7MuSpXXXXcoXVXXq6xXFXXXv.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Vermelho",
+      "Preto",
+      "Verde",
+      "Azul",
+      "Cinza",
+      "Roxo",
+      "Laranja"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": true,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "limpador-multiuso-retratil",
+   "name": "Limpador Multiuso Retrátil",
+   "sku": "8097268203827",
+   "short_description": "",
+   "description": "<h1><strong>Torne sua limpeza mais fácil com esse esfregão que limpa em 360º em todos os cantos mais difíceis de chegar.</strong></h1>\n<p>Com sua base giratória é possivel tirar a poeira de todos pontos cegos, resolvendo todo problema de sujeitos de suas paredes, armários, quadros.</p>\n<h1>\n<strong><img src=\"https://cdn.hotishop.com/image/2022/08/5e377bba77e782a3c00c343d67a7c4848c30939a2bc5dbaeab1c3c9a96c65dc8.gif\" alt=\"\" width=\"480\" height=\"480\" loading=\"lazy\"></strong><strong>Mantenha a casa limpa com o mínimo de esforço</strong><br />\n</h1>\n<p>O inovador MOP Pró 360 que remove a sujeira, passa pano, higieniza* e seca o piso em instantes, sem complicação e sem dor de cabeça, porque ele reúne, em um só lugar, tudo o que você precisa!<strong><br><br><img src=\"https://cdn.hotishop.com/image/2022/08/7348159d44073021311383c820e422f087e58134c856d78f4b68aa3a71503882.gif\" alt=\"\" width=\"479\" height=\"479\" loading=\"lazy\"></strong></p>\n<h1><strong>Seca e limpa sem dificuldade</strong></h1>\nE graças ao seu Smart Clean, um inovador sistema de secagem e filtragem que separa a água suja da limpa, ele mantém as suas mãos longe da sujeira ou do contato com produtos químicos.\n<h1> </h1>\n<h1>\n<strong><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/4f3c0a8b7e86a5c3c1d3484918b439cd608fc4ed67f83421044fa32723c2b0bd.png\" alt=\"\" width=\"477\" height=\"397\" loading=\"lazy\"></strong><strong>Sem Surjar as Mãos</strong><br />\n</h1>\n<p>Sua base repele toda agua, e os produtos de limpeza, sem necessidade de ter contato com sua mão <strong><img src=\"https://cdn.hotishop.com/image/2022/08/dd1dade217da2347812895c3732668ee3b36699e24ae3e06f675299c3d3ba1db.gif\" alt=\"\" width=\"480\" height=\"480\" loading=\"lazy\"></strong></p>\n<h2>Trabalhamos com os melhores fornecedores do mercado, com isso garantimos a entrega e qualidade dos produtos.</h2>\n<p>Com o envio direto para sua casa, a OutleTrend e seus fornecedores garantem segurança e agilidade na entrega do seu produto.</p>\n<h2><strong>Especificações:</strong></h2>\n<p>Tamanhos:<br />Comprimento: 130cm;<br>Painel: 27*27*27cm.<br>Material:<br>Mop: haste de aço inoxidável e plástico ABS;<br>Panos: microfibra.<br>Peso: cerca de 700g.</p>\n<p> </p>\n<p> </p>\n<h2><strong> </strong></h2>",
+   "price_cents": 17999,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/MopdeLimpezaGiratorio360_-AdvancedClean8_600x_5df42c0a-9fd5-4b5c-8079-03a441aa4f9e.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S6848acae951c4b5ca8875cfd3c396515q_600x_675e5b15-d60b-4599-a86a-e1e5c78c13a9.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sd825e5300f0a4a65b6e69241d0d941beu.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S8150907744bf4953a55cc7e349819e447_600x_42259bf6-28c4-4565-832d-99ac2b8626de.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Secad40e3435449d4bb79388961241ef2P_eacecf1f-d1ca-4028-a001-016df820b13f.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Opço",
+     "values": [
+      "1 Pano MicroFibra",
+      "3 Panos de MicroFibra"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.8,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "lift-max-sutia-adesivo",
+   "name": "Lift Max – Sutiã Adesivo",
+   "sku": "8090747076915",
+   "short_description": "",
+   "description": "<h2><strong>ADEUS SEIOS CAÍDOS,LIFT MAX É OSEGREDODAS CURVASPERFEITAS… TENHA SEIOS FIRMES E MODELADOS!</strong></h2>\n<strong></strong><br>\n<strong><img src=\"https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/6307fb5bb9f16/6307fb5bb9f1d.gif\"><br></strong>\n<strong></strong>\n<strong></strong>\n<strong>Dê a sustentação e o apoio exato para modelar seus seios! Lift Max é um sutiã modelador 100% invisível que adere confortavelmente aos seus seios, dando firmeza e levantando instantânea.</strong>\n<strong></strong>\n<strong> <img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/SUGIA_480x480.png?v=1671579325\"></strong>\n<em></em>\n<h3><strong>SEIOS FIRMES E ERGUIDOS INSTÂNTANEAMENTE</strong></h3>\nChega de seios caídos,Lift Maxmodela e levanta seus seios facilmente, basta coloca-los na parte inferior e modelar da altura e formato que quiser, podendo elevar até 7cm\n<strong><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/3_800x_072c4d7f-4327-4707-967d-c935deb78857_480x480.jpg?v=1663347902\" alt=\"sutiã de silicone adesivo, sutiã invisivel de silicone, sutiã adesivo invisível, sutiã efeito silicone, sutiã push up efeito silicone, sutiã adesivo plus size, sutiã decote profundo efeito silicone, sutiã auto adesivo, sutiã adesivo de silicone, sutiã invisivel, sutiã silicone adesivo, sutiã adesivo silicone, sutiã adesivo push up\"></strong>\n<br>\n<strong></strong>\n<h4><strong>100% INVISÍVEL, SEM ALÇAS OU RENDAS QUE MACHUCAM</strong></h4>\nLift Maxé o que há de mais confortável, diga adeus as alças e rendas que te machucam, e te atrapalham a usar vestidos em v ou abertos nas costas. Com esse sutiã você terá conforto e um visual incrível em qualquer roupa por ser invisível.\n<!-- x-tinymce/html --><img alt=\"sutiã de silicone adesivo, sutiã invisivel de silicone, sutiã adesivo invisível, sutiã efeito silicone, sutiã push up efeito silicone, sutiã adesivo plus size, sutiã decote profundo efeito silicone, sutiã auto adesivo, sutiã adesivo de silicone, sutiã invisivel, sutiã silicone adesivo, sutiã adesivo silicone, sutiã adesivo push up\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/53c8cabaa4d862464efd286ddaae32cb_large_480x480_f9aa0f51-e37b-478a-b514-1b4c1ea7f083_480x480.jpg?v=1663348043\">\n<br>\n<strong>FIXAÇÃO FORTE E SEGURA</strong>\n<strong></strong>\nO SutiãLift Maxé oSEGREDOpor trás das curvasperfeitas, aderindo aos seus seios e modelando-os. Pode ficar tranquila, sua fixação éultra potente, e segura!\n<br>\n<img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0668/7870/1865/files/GIF-2022-12-20-20-50-45_480x480.gif?v=1671580358\">\n<!-- x-tinymce/html --><img alt=\"sutiã de silicone adesivo, sutiã invisivel de silicone, sutiã adesivo invisível, sutiã efeito silicone, sutiã push up efeito silicone, sutiã adesivo plus size, sutiã decote profundo efeito silicone, sutiã auto adesivo, sutiã adesivo de silicone, sutiã invisivel, sutiã silicone adesivo, sutiã adesivo silicone, sutiã adesivo push up\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/antes_e_depois_480x480_5b569fef-bd7d-464a-a9d6-5a19a0e9ed02_480x480.png?v=1663348448\">\n<br>\n<h3>SEM LÁTEX E SEGURO CONTRA ALERGIAS</h3>\n<p>Feito de material de grau cirúrgico, amigável à pele e respirável.</p>\n<strong>TAMANHO ÚNICO QUE SE ADAPTA</strong><br>\n<strong></strong>\nPor ser maleável e bem elástico, seu tamanho é único e se adapta para praticamente todos tipos e tamanhos de seios, sendo que ele possui 11cm de largura.\n<strong></strong>\n<strong></strong>\n<strong>DICAS INCRÍVEIS AO USAR</strong>\n<ol>\n<li>Certifique-se de que seus seios estejam completamente secos e limpos antes de usar.</li>\n<li>Não aplique hidratantes, loções ou perfumes nos seios antes de usar.</li>\n<li>Não exponha o sutiã ao sol. Deixe-os secar naturalmente após a lavagem.</li>\n<li>Não use sobre pele machucada ou irritada.</li>\n</ol>\n<strong></strong><br>\n<strong>ESPECIFICAÇÕES</strong>\n<strong>Material:</strong>Algodão/Silicone\n<strong>Tamanho:</strong>11 cm\n<strong>Conjunto acompanha:</strong> 1 pares (2 unidades)",
+   "price_cents": 6790,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/fvxDZwqA8dfMW_pR_4_10d17d08-d410-4e93-b320-28ce3e488c5a.png",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S31c7892dbe304d6e9cfad6ba2509908ag.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sce99986a3bfd4da8a31e54fb6d7da3441.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sd682c075038c4f2e85d467373ce4149fJ.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sa162244999df4bb8b397a83ae6cabf81J.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S8a136e44ba894027be78708dfcfbf237m.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc6cb55526f2a406d8154efd454928e5bW.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sd127496a5a734eb2b06f01e33587dd2av.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S34fe07dba4264c68988976a3f528fe7d5.jpg"
+   ],
+   "categories": [
+    "moda-feminina"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Bege",
+      "Preta"
+     ]
+    },
+    {
+     "name": "Tamanho",
+     "values": [
+      "P-M",
+      "G-GG",
+      "XGG"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "joelheira-elastic-pro",
+   "name": "Joelheira Elastic Pro",
+   "sku": "8102532776243",
+   "short_description": "",
+   "description": "<p><!-- x-tinymce/html --></p>\n<p><!-- x-tinymce/html --></p>\n<h2>Joelhos sem gastar fortunas com tratamento</h2>\nA <strong>joelheira de compressão Elastic Pro®</strong> fornece suporte mecânico para as articulações e são completamente livres de hastes metálicas. Seu design é projetado para <strong>proteger</strong> o joelho de <strong>ferimentos futuros</strong> ou <strong>riscos de lesões</strong>.\n<img src=\"https://cdn.hotishop.com/image/2022/07/282d42e8d281529c3805673f5e6ca05568a02fdd9218db0f2ae3c13540d09574.gif\" width=\"523\" height=\"697\">\n<strong>Pratique esporte sem dores</strong>\nNão deixe a <strong>dor</strong> no joelho te <strong>atrapalhar</strong>. Aliviando a tensão e a pressão, o <strong>Elastic Pro®</strong> traz <strong>conforto sem dor</strong> ao seu estilo de vida ativo.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min_480x480.jpg?v=1660361230\" alt=\"\" width=\"538\" height=\"538\">\n<strong>Alívio imediato e prevenção de lesões</strong>\n<strong>Sinta-se jovem</strong> novamente, pois as mangas de joelho ajudam a estabilizar os joelhos. Possui <strong>compressão rígida</strong> que <strong>reduz</strong> a <strong>inflamação</strong> e ajuda na <strong>recuperação</strong>.\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min-min_480x480.jpg?v=1660361379\" alt=\"\" width=\"530\" height=\"530\">\n<strong>Suporte Estabilizador</strong>\nSuporte com o qual você pode contar. Estabilizando <strong>articulações</strong> e <strong>ligamentos</strong>, o <strong>Elastic Pro®</strong> comprime para minimizar o <strong>potencial de lesão</strong>.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min-min_480x480.jpg?v=1660361379\" alt=\"\" width=\"530\" height=\"530\">\n<strong>Leve e respirável</strong>\nTodo o suporte, sem restrições. Feito para ser leve e respirável, o <strong>Elastic Pro®</strong> é feito para uso <strong>confortável</strong> com <strong>elástico macio</strong> que <strong>absorve</strong> a <strong>umidade</strong>.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min-min-min_f131649e-82e8-40d7-b39e-c2f9339b92d7_480x480.jpg?v=1660361686\" alt=\"\" width=\"530\" height=\"530\">\n<strong>Tecnologia italiana anti-impacto</strong>\nCom hastes flexíveis e compressão, a Joelheira Ortopédica <strong>absorve os choques</strong> <strong>que seriam absorvidos pelos joelhos </strong>que causam dores as dores e lesões. Seu anel frontal de silicone proporciona proteção patelar e <strong>liberdade para os movimentos das articulações. </strong>\n<strong><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min-min-min-min_480x480.jpg?v=1660362163\" alt=\"\" width=\"530\" height=\"530\"></strong>\n<strong>Sem precisar usar remédios</strong>\nTenha uma<strong> solução imediata das dores</strong>, sem necessidade de <strong>tratamentos cirúrgicos</strong> e <strong>medicamentosos.</strong> <strong>Segundo Ortopedistas:</strong> “Uso de joelheiras pode diminuir o risco de lesões e proteger”.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/5-main-1-pcs-compression-knee-pads-support-sleeve-protector-elastic-kneepad-brace-spring-support-volleyball-running-silicone-pad-min_480x480.png?v=1660362979\" alt=\"\" width=\"527\" height=\"527\">\n<strong>Pratique esporte com performance</strong>\nAumente sua performance e <strong>resistência</strong> nas suas <strong>atividades físicas</strong>. Combatendo a <strong>artrite</strong>, <strong>entorses</strong>, recuperação, corrida, treinamento e muito mais.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/12cd9fb0b34ea9ee34e09b2d912be0eb-min-min_480x480.jpg?v=1660444702\" alt=\"\" width=\"532\" height=\"575\">\nTabela de Medidas\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S33a48939047448a0a3be84faff6b1ac2J_1_-min-min-min-min-min-min_480x480.jpg?v=1660403549\" alt=\"\" width=\"521\" height=\"421\">\n<strong>🚨 ÚLTIMAS UNIDADES 🚨</strong>\n<strong>CONTÉM NA EMBALAGEM</strong>\n1x Joelheira Elastic Pro",
+   "price_cents": 8990,
+   "compare_at_cents": 14990,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sb818bc05ad1347b8acfc449a1e9969cf4.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc3b8f54bb644474b97ef6dbcd86ce9e0S.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S48dbc7ba57364e61bc15bf235edc7dac8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S82360364e077495da1c3ed3adaca0c2e0.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S66ed62a2617f4bf68b08a8acb50d8a65g.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S71f3c3cebcea40ef8b8325cdd26c5325n.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sd98aebda2add45998b68b3cda4c296ad8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S19db5245fa4549889e5901892eb4ea88z.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S9295633cef4f48e7bb13cfe9a35b5383r.jpg"
+   ],
+   "categories": [
+    "saude"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Rosa",
+      "Azul",
+      "Preta",
+      "Verde"
+     ]
+    },
+    {
+     "name": "Size",
+     "values": [
+      "P",
+      "M",
+      "G",
+      "XG",
+      "XXG",
+      "XXXG"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "higienizador-nasal-nasal-pro",
+   "name": "Higienizador Nasal – Nasal PRO",
+   "sku": "8090666729779",
+   "short_description": "",
+   "description": "<p>Quer respirar livremente e se livrar dos sintomas de rinite e sinusite?</p>\n<h4><img height=\"807\" width=\"454\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0263/6274/0783/files/20201002_133737_480x480.gif?v=1601657161\"></h4>\n<p><strong><img height=\"449\" width=\"460\" alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/DIMINUICAO_DE_CRISES_ALERGICAS_480x480_1_1_3a872917-0460-4d94-ad7b-0481ff14aee0_480x480.png?v=1602099517\"></strong></p>\n<p>O Nasal Pro foi desenvolvido, testado e aprovado por médicos alemães para problemas nasais. Ele já é sucesso de vendas na Europa e acaba de chegar no Brasil.</p><br>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/nasal-wash-nose-irrigation-bottle4-600x600_1024x10242x-removebg-preview_1_2_355ec0cc-5782-448c-b2f7-d33a6808a17e_480x480.png?v=1601568763\">\nEle combate com eficiência boa parte dos seus problemas respiratórios, limpando seu nariz e desobstruindo e proporcionando uma respiração totalmente livre.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/respirac3a7c3a3o-removebg-preview_a839a369-1352-41b6-9462-7122d8247dab_480x480.png?v=1602035231\">\n<strong>CHEGA DE FICAR SOFRENDO COM DOR DE CABEÇA, ESPIRROS, CORIZA, TOSSE E CONGESTÃO NASAL.</strong>\nO Nasal Pro é fácil de limpar, não vasa e é ideal para todas as pessoas e idades. Afinal, ninguém merece sofrer com rinite ou sinusite.",
+   "price_cents": 7990,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/4e54c6689404f956061d33d2f89bab58_500x_ab69181f-89fe-4e65-8eec-bc0d5acddd6d.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/a66cfed43fa5a18299464b12adb6e447_500x_f87fa783-9b86-451e-8bd8-cfcdf8ed76ad.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S2b09657b25824fe79344532298d5cdceJ.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S7412297302634b6783cbd715fb216e1ei.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc4860327c08b45c38d72f061ea446305f.jpg"
+   ],
+   "categories": [
+    "saude"
+   ],
+   "options": [
+    {
+     "name": "Capacidade",
+     "values": [
+      "500ML",
+      "300ML",
+      "70ML"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "fatiador-de-melancia-em-cubos-smart-cutter",
+   "name": "Fatiador de Melancia em Cubos – Smart Cutter",
+   "sku": "14:200006152#02 1pcs",
+   "short_description": "",
+   "description": "<p><strong>CORTE MELANCIAS EM CUBOS SEM FAZER ESFORÇO OU SUJEIRA!</strong></p>\n<p>O fatiador de cortador de melancia em cubos é um utensílio de cozinha indispensável para os amantes de melancia! Deguste uma melancia docinha em cubos sem fazer esforço. O aliado perfeito quando se trata de praticidade e segurança.<br></p>\n<img alt=\"Fatiador e Cortador de Melancia em Cubos - Watermelon Cutter\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Ha0ddf8eaa69d4fff97b3c48551e76a28N_480x480.jpg?v=1651277823\">\n<p><strong>Características Principais:</strong></p>\n<ul>\n<li>O mais seguro cortador de melancia;</li>\n<li>Extremamente fácil de usar;</li>\n<li>Cortes em cubos, favorecendo crianças, adultos e idosos;</li>\n<li>Utensílio altamente durável.</li>\n</ul>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0089/2787/1061/files/giphy1.gif?v=1564519209\" width=\"279\" height=\"370\"></p>\nO fatiador e cortador de melancia em cubos torna todo o processo mais fácil e rápido, resultando em cubos perfeitamente cortador e uniformes. Seu design é compacto, oferecendo também uma régua de corte, onde você poderá escolher o tamanho de seus cubos em até 2 cm.\n<br>\n<p><strong>Especificações</strong></p>\n<ul>\n<li>Material: aço inoxidável</li>\n<li>Tamanho: 27 x 7.5 x 3cm</li>\n<li>Cor: verde</li>\n</ul>\n<p><strong>Contém</strong></p>\n<ul>\n<li>1 x Fatiador e cortador de melancia em cubos </li>\n</ul>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Inserirumtitulo_1000x1100px_2_480x480.png?v=1672020021\" alt=\"\"></p>\n<h1></h1>",
+   "price_cents": 8490,
+   "compare_at_cents": 10280,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H1c02ee34f8ae4c3dbe2fad378051f883C.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hb933573cd70a421283023667d7676018M.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H42cc0b8c579845dbb479b65abf5b60d0R.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Ha8e2960e969f450ba32f012bd57c2340A.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H5d21893a67fb47f19e0dba05a05416a6J.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "espremedor-portatil",
+   "name": "Espremedor Portátil",
+   "sku": null,
+   "short_description": "",
+   "description": "Espremedor de frutas automático. Basta cortar a fruta ao meio e colocar no aparelho. Ele espremerá por você e o suco sairá pronto e peneirado em segundos. Faz suco de praticamente qualquer tipo de fruta.\n<img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_17_480x480.jpg?v=1654823256\">\nFunciona com bateria, recarregável via USB. Este espremedor é a maneira mais prática e rápida de ter seu suco natural e super fresco. Ele aproveita 100% do suco, sem resíduos e sem desperdício.\n<img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_19_480x480.jpg?v=1654823256\">\n<strong>Características</strong>\nRotação: 12000rpm\nVolume:500ml\nPotência: 45W\nVoltagem: 7.4v\nMaterial: ABS alimentício\nCertificado: CB, GS, CE, 3C\n<img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_2_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_8_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_10_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_7_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_14_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_6_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_18_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_9_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_5_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_12_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_15_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_3_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_11_480x480.jpg?v=1654823287\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_22_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_21_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_20_480x480.jpg?v=1654823256\"><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_1_480x480.jpg?v=1654823287\">",
+   "price_cents": 22990,
+   "compare_at_cents": 48700,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_13.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_2.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_3.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_4.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_5.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_6.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_7.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_8.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_9.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_10.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_11.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_12.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_14.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_15.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_16.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_17.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_18.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_19.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_20.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_21.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_22.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/espremedor-de-laranja-automatico-portatil-usb-faz-suco-natural-da-fruta_23.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": true,
+   "rating": 4.2,
+   "review_count": 10,
+   "active": true
+  },
+  {
+   "slug": "depilador-2-em-1-portatil",
+   "name": "Depilador 2 em 1 Portátil",
+   "sku": "200007763:201336099;14:1052#colorful",
+   "short_description": "",
+   "description": "<p>Mini Depilador Portátil, tenha uma experiência sem dor na hora da remoção dos pelos. </p>\n<p>Você nunca mais vai precisar usar a pinça. Com nosso Depilador Portátil você depila as sobrancelhas e diversas áreas do corpo eliminando os pelos de forma fácil e totalmente indolor. </p>\n<p><img alt=\"2 em 1 recarregável elétrica sobrancelha trimmer depilador corpo feminino  forma batom facial remoção do cabelo arco íris e rosa|Cortador de  sobrancelha| - AliExpress\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/2-em-1-recarreg-vel-el-trica-sobrancelha-trimmer-depilador-corpo-feminino-forma-batom-facial-remo.jpg_Q90.webp\"></p>\n<strong></strong>\nEstes problemas são pertinentes na rotina das mulheres, tornando um momento de satisfação e cuidado, em uma momento doloroso e cansativo.\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/h9dd1b59995dd4842b6d3173cfc08505dr-8b46904ec0a863cac916491018606092-1024-1024.png\" alt=\"CANETA DEPILADORA 2 EM 1 SOBRANCELHA E CORPO|CANETA 2 EM 1 FEMALE\">\n<strong>✔Chega de Dor: </strong>Com nosso depilador você apara os pelos da sobrancelha, rosto e corpo sem sentir dor e livre de irritações.\n<strong>✔Clareamento: </strong>Auxilia no clareamento das axilas e partes intimas.\n✔<b>Portátil: </b>Leve o seu depilador na sua bolsa e sem ocupar muito espaço, seu designe em formato de caneta proporciona maior conforto e comodidade para transporte.\n✔<b>Recarregável: </b>Possui uma bateria interna com duração de 45 min, podendo ser recarregado até com o carregador do celular.\n<strong>✔Ganhe Tempo e Economize: </strong>Faça você mesma sua depilação de forma fácil e rápida.\n<strong>✔2 em 1: </strong>Possui duas funções depiladoras, sobrancelhas e corpo, basta selecionar a cabeça e encaixar facilmente.\n<p><strong>✔Resultados Comprovados: </strong>Pele mais macia e saudável, sem riscos, cortes ou irritação.</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/dkfkfkf_480x480.jpg?v=1607569788\" alt=\"\"></p>\n<p><strong>Especificação:</strong></p>\n<p><strong>✔Material:</strong> ABS. <br /><strong>✔Fonte de alimentação:</strong> Carregamento USB. <br /><strong>✔Tensão:</strong> DC5V. <br /><strong>✔Potência:</strong> 2W. <br /><strong>✔Usando o tempo:</strong> 45m. <br /><strong>✔Tempo de carregamento:</strong> 8h. <br /><strong>✔Indicador de carregamento:</strong> Luz vermelha sobre durante o carregamento, luz verde sobre quando totalmente carregada. <br /><strong>✔Peso</strong>: 90g.\n<strong>Itens do Pacote:</strong>\n<p>1 x Depilador 2 em 1;<br />1 x Cabeça depiladora  de sobrancelha;<br />1 x Cabeça depiladora corpo;<br />1 x Cabo de carregamento USB;</p>",
+   "price_cents": 11992,
+   "compare_at_cents": 14990,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H8444ddfb42cc44bab8e6d32092c18f1dr.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H151791959b3b4c8d9c45f6322be33ca5t.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H252e9a81da8a4cbbad34cdcca0236886b.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hd589600fd27449dbbdb0f3b0ee2ce533s.jpg"
+   ],
+   "categories": [
+    "make-e-acessorios"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": true,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "dual-use-black-eyeliner-wholesale-waterproof-sweat-proof-and-not-smudged-eyeliner-makeup-eyeliner-winged-eyeliner-stamp",
+   "name": "Delineador com marcador Foxy eyes",
+   "sku": "8097163051315",
+   "short_description": "",
+   "description": "",
+   "price_cents": 266,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc09fd3a3843a40fa8c328c8f020a45a9h.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S2bb8a540e9f547c5ba951a82312964aen.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S0b249506b9b548ab9b1fa51a5c4093a2d.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S2b19aa88952145bcb3c58f14154d76ecp.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sf029145fdb8e45488fe06afa1d20797fn.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sce9560231ffa4d2c886cc1bba7f19d31Y.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sc24f2cdd9f274aedb944ffc7f6e5871f6.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S64295076d86f42b1a4f63990d538c878O.jpg"
+   ],
+   "categories": [
+    "make-e-acessorios"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Small",
+      "Big"
+     ]
+    },
+    {
+     "name": "Size",
+     "values": [
+      "15.5g"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.4,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "cortador-de-unhas-pet-petseguro",
+   "name": "Cortador de unhas PET – PetSeguro",
+   "sku": "8090719322419",
+   "short_description": "",
+   "description": "<p>Corte as unhas do seu Pet com muito mais segurança e praticidade.</p>\n<p>Todos sabemos o quão chato é quando nosso pet esta com a unha grande, acaba arranhando os móveis, o piso e até machucando eles próprios. Pensando nisso, trouxemos para o Brasil essa novidade. Com o nosso Cortador você irá cortar a unha do seu bichinho em casa mesmo com muito mais segurança e praticidade.<strong><img height=\"331\" width=\"331\" src=\"https://cdn.shopifycdn.net/s/files/1/0548/9845/8833/files/00_00_00--00_00_03_480x480.gif?v=1630395888\"></strong></p>\nNosso cortador possui uma luz de LED que mostra onde há a circulação sanguínea, fazendo com que assim você saiba onde cortar sem levar riscos ao seu bichinho. É muito mais seguro, mais prático e mais barato do que cortar no Pet Shop. Cuide da saúde do seu PET, ele merece esse mimo.<strong><img height=\"331\" width=\"331\" src=\"https://cdn.shopifycdn.net/s/files/1/0548/9845/8833/files/00_00_09--00_00_12_480x480.gif?v=1630396233\"></strong>\n<img height=\"332\" width=\"332\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/foto_gato_480x480.jpg?v=1649166190\" alt=\"\"></p>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<h3></h3>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><strong>Confira mais alguns benefícios do nosso Cortador de unhas PET:</strong></p>\n<ul>\n<li>Seu pet muito mais feliz e alegre;</li>\n<li>Economiza seu dinheiro e tempo indo ao Pet Shop;</li>\n<li>Mais segurança para o seu bichinho;</li>\n<li>Material de Alta Qualidade;</li>\n<li>Confortável, ergonômico e antiderrapante;</li>\n</ul>\n<h3>ESPECIFICAÇÕES</h3>\n<ul>\n<li>Material: Plástico ABS de Alta Qualidade.</li>\n<li>Tamanho: 10.5cm * 6.2cm * 1.5cm.</li>\n<li>Cor: Rosa ou Azul.</li>\n</ul>\n<h3>O PACOTE INCLUI:</h3>\n<p>1x Cortador de unhas PET – PetSeguro.</p>\n<img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Inserirumtitulo_1000x1100px_2_480x480.png?v=1672020021\">",
+   "price_cents": 6490,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S3415876840d54ff38e6dc33590d782cbb.png",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S20605d3d03ba4f5b9d5dd452bb308c5eZ.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S480ce0d43da04e8c9ae3a8cabf122a1fF.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S6deb55aaa3504aa7955db0e1b0a4ecef1.jpg"
+   ],
+   "categories": [
+    "pets"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Azul",
+      "Rosa"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": false,
+   "rating": 4.2,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "conservador-de-temperos-e-ervas-frescas",
+   "name": "Conservador de Temperos e Ervas Frescas",
+   "sku": "8090856751411",
+   "short_description": "",
+   "description": "<p>Reconhecidas por darem um sabor especial aos alimentos, as<strong>Ervas Frescas</strong>, ainda deixam o prato muito mais nutritivo, embora pouca gente se dê conta disso. Em geral, as ervas possuem inúmeros benefícios para a saúde do organismo, com propriedades antioxidantes, calmantes, algumas melhoram taxas bioquímicas, como colesterol, triglicerideos e glicemia.</p>\n<p>Mas, infelizmente, grande parte das famílias brasileiras acaba não incluindo essa poderosa fonte natural e saúdavel em suas refeições. Uma pelo fato da dificuldade em manter essas ervas frescas conservadas para utilizar durante a semana, visto que são muito perecíveis, ainda mais se tratando de um clima intenso e ameno como nosso país. E outra, por não ter o tempo suficiente para ficar indo dia sim e dia não no mercado comprar ervas frescas.</p>\n<p>Pensando nisso,<strong>A Future Direct </strong>foi entender como esse problema poderia ser resolvido através de um produto e encontrou este incrível Conversador de Temperos e Ervas Frescas.</p>\n<p><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/download_11_480x480.jpg?v=1629400804\"></p>\n<p>Com ele, você vai poder conservar as suas ervas frescas por até 3 semanas consecutivas. Isso porque ele possui um dispositivo que permite você colocar água em um compartimento, que irá ajudar a manter suas ervas hidratadas e sempre fresquinhas para o consumo.</p>\n<p><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/download_12_480x480.jpg?v=1629400905\"></p>\n<p>Agora não tem mais desculpas para aproveitar o máximo dos inúmeros benefícios do consumo das mais variadas ervas frescas disponíveis. Se você é do tipo de pessoa que ama uma comidinha caseira e que não abre mão de uma alimentação saudável, esse produto sem dúvidas não poderá faltar na sua casa, será um sucesso absoluto, pode acreditar.</p>\n<p><strong>Dicas e Benefícios das Ervas Frescas:</strong></p>\n<p><strong>Alecrim</strong>: Possui ação antisséptica, anti-inflamatória, além de proteger o fígado e controlar a pressão arterial. Ele também pode ajudar no combate da depressão e nos sintomas da tensão pré-menstrual (TPM).</p>\n<p>– Pode ser usado para fazer chá, temperar molhos, sopas e carnes.</p>\n<p><strong>Cebolinha</strong>: Tem ação anti-inflamatória, ajuda a controlar a pressão arterial e auxilia no combate ao stress. Também tem propriedades antibacterianas e antifúngicas.</p>\n<p>– Erva largamente utilizada na culinária oriental, é usada em carnes, peixes, frutos do mar e aves, além de sopas variadas, caldos e assados.</p>\n<p><strong>Coentro</strong>: Ajuda no controle da ansiedade e stress, contribui para a digestão e saúde dos olhos, ajuda a regular o açúcar no sangue, atua na melhora do sono, ajuda a eliminar bactérias e fungos, é anti-inflamatório, tem um potente efeito detoxificante de metais tóxicos.</p>\n<p>– Pode ser usado no suco verde, salada ou carnes. Uma dica legal é temperar o peixe com a erva, já que diminui em até 99% a absorção de mercúrio – metal tóxico frequentemente presente nesse alimento.</p>\n<p><strong>Hortelã</strong>: Tem ação analgésica, estimulante, aromatizante, antioxidante, vasoconstritora, expectorante, previne problemas bucais e ainda ajuda na digestão, aliviando problemas estomacais e intestinais.</p>\n<p>– Usada muito para preparo de chás e sucos, a hortelã pode dar mais sabor em pratos como feijão, batata, berinjela e cordeiro.</p>\n<p><strong>Manjericão</strong>: Melhora o fluxo sanguíneo, além de possuir ação antioxidante e anti-inflamatória.</p>\n<p>– Utilizado em molhos para massas, sopa de legumes, tomates, carnes, frangos e peixes.</p>\n<p><strong>Orégano</strong>: Tem ação antioxidante, anti-inflamatória e antibacteriana. Também auxilia no combate a uma das bactérias responsáveis por úlceras gástrica e duodenal. Além disso, o orégano atua no sistema digestório, aumentando a produção de enzimas digestivas.</p>\n<p>– Vai bem no molho de tomate, pizza, queijo, ensopados e carnes.</p>\n<p><strong>Salsinha</strong>: Possui ação digestiva, combate cólicas menstruais e ainda é indicado para infecções urinárias e problemas renais. Também é rica em antioxidantes e age como anti-inflamatório.</p>\n<p>– Pode ser utilizada no preparo de legumes, assados, sopas, massas, carne e frango.</p>\n<p><strong>Sálvia</strong>: Tem ação digestiva, diurética, hipoglicemia, antisséptica, antioxidante e pode até prevenir queda de cabelo e ajudar no bom funcionamento do intestino.</p>\n<p>– Pode ser utilizada em carnes, assados e conservas.</p>\n<p><strong>Tomilho</strong>: Possui ação antioxidante e evita também o envelhecimento precoce. Ele ainda atua como antisséptico e ajuda combater doenças do aparelho respiratório.</p>\n<p>– O tempero é muito utilizado em ensopados, pratos com feijão e carnes.</p>\n<p><strong>Mais saúde na sua mesa</strong> </p>\n<p>E aí, ainda restou alguma dúvida de como esse simples produto pode trazer enormes benefícios de saúde para você e toda sua família?</p>\n<p><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/download_7_480x480.jpg?v=1629400804\" alt=\"\"></p>\n<p><strong>Conteúdo da Embalagem:</strong></p>\n<p>1 Conservador de Temperos e Ervas Frescas.</p>\n<p><strong>Especificação Técnica</strong></p>\n<p>Altura: 25cm;<br>Comprimento: 9,5cm;<br>Largura: 6,6cm;<br>Peso: 140g;<br>Material: Plástico.</p>\n<p> </p>\n<p><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Inserirumtitulo_1000x1100px_2_480x480.png?v=1672020021\"></p>",
+   "price_cents": 11990,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H2a1d9f5a2deb4d86a58e8001a961be9bV.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S461c8abceabc4c3bab738964961705c35.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H921ab863067e42ca8c18da5f73bbd439h.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/H84081f8c2347461ea5429bac7a5462e41.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hc450a945e0034fc8913f81c4ec6aeb89H.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Hbed341319ba4455289842fd4ff4fbce34.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [
+    {
+     "name": "Quantidade",
+     "values": [
+      "1 peça",
+      "2 peças"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": false,
+   "rating": 4.8,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "cinta-massageadora-alivio-de-colicas",
+   "name": "Cinta massageadora – alivio de cólicas",
+   "sku": "8097208172851",
+   "short_description": "",
+   "description": "<h3 dir=\"auto\">cA MULHER MODERNA NÃO PRECISA MAIS SOFRER COM AS CÓLICAS MENSAIS</h3>\n<p dir=\"auto\">Tenho certeza que você já ouviu o ditado que diz que “a dor da mulher é tão ruim quanto a dor do homem”. Infelizmente, isso não é verdade, na realidade as mulheres não só sofrem de cólicas menstruais, mas também de estigma social e tabus. Embora sejam apenas pequenas imperfeições, elas são desagradáveis e podem ser difíceis de lidar.</p>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Sa155fd87faf34a098e6b38677e1d719as.jpg?v=1670862897\" alt=\"\" width=\"528\" height=\"528\">\n<p dir=\"auto\"><strong>Agora você já pode viver livre das dores de cólicas menstruais</strong> usando o cinto Alivium, que graças com a tecnologia <strong><em>ThemalMassage®</em></strong> desenvolvida nos Estados Unidos, consegue aumentar a temperatura e os níveis de massagem multi-frequência em 4 acupontos específicos de acordo com a intensidade de suas dores de cólica</p>\n<p dir=\"auto\"><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/points_1165837f-d0d2-4eaa-ade7-bc0f6b77621d.png?v=1670863485\" alt=\"\" width=\"508\" height=\"360\"></p>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S0191fea6ea474ea29e52732fd7bb1162k.jpg?v=1670862888\" alt=\"\" width=\"512\" height=\"512\">\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S114a4f90843f4664866ada4ee03f0d7an.jpg?v=1670862878\" width=\"508\" height=\"508\">\n<p dir=\"auto\"><strong>Sinta novamente a ótima sensação de continuar a sua rotina sem dores</strong>. O tamanho é ajustável e pode ser usado ao redor da cintura, quadril e coxa para proporcionar alívio durante o período menstrual além de ser super discreto e ter o conforto de usar em qualquer lugar.</p>\n<p dir=\"auto\">– Sistema de aquecimento inteligente <strong><em>ThemalMassage®</em></strong><br />– Massagem com ajuste de intensidade<br />– Bateria de longa duração para usar por horas<br />– Super discreto, pode ser usado por baixo da blusa e é super silencioso<br />– Cinto elástico com ajuste de fivela</p>\n<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/S7935e6340bf84180812e16b747617596k.jpg?v=1670862893\" alt=\"\" width=\"521\" height=\"521\">\n<p dir=\"auto\">O Cinto Alivio é super seguro e feito com material de alta qualidade podendo ser usado de forma super fácil em qualquer lugar. <strong>Livre-se agora dos remédios que só fazem mal a saúde e geram gastos corriqueiros.</strong></p>\n<p dir=\"auto\">Adquira agora o Cinto Alivio com <strong>55% de Desconto e ganhe frete grátis</strong> para qualquer lugar do Brasil.</p>",
+   "price_cents": 19900,
+   "compare_at_cents": 49800,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S496556de1de8480cac91f8dce51ce340I.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S8110a31a897c471eadf8fb2c4f2549e5a.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sb67ec1ee222e45fcaa0c4d315c043d65p.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sa155fd87faf34a098e6b38677e1d719as-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S7935e6340bf84180812e16b747617596k-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S114a4f90843f4664866ada4ee03f0d7an-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S0191fea6ea474ea29e52732fd7bb1162k-1.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sdb4902cb948b435699ef614af5349b3bN.jpg"
+   ],
+   "categories": [
+    "saude"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Branco",
+      "Rosa"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": false,
+   "is_featured": false,
+   "rating": 4.2,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "bola-interativa-para-gatos",
+   "name": "Bola Interativa para Gatos",
+   "sku": "8090719486259",
+   "short_description": "",
+   "description": "<sectionshowShippingEstimator\": false,\n  \"showQuantitySelector\": true,\n  \"showPaymentButton\": false,\n  \"showInventoryQuantity\": false,\n  \"lowInventoryThreshold\": 0,\n  \"galleryTransitionEffect\": \"fade\",\n  \"enableImageZoom\": true,\n  \"zoomEffect\": \"outside\",\n  \"enableVideoLooping\": false,\n  \"productOptions\": [\"Cor\"],\n  \"enableHistoryState\": true,\n  \"infoOverflowScroll\": true,\n  \"isQuickView\": false\n}\"></p>\n<p>Bolas que simulam sons de sapo, grilo e pássaro.<img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Screenshot_9_480x480.png?v=1663094574\" alt=\"\"><img src=\"https://terapimax.com.br/wp-content/uploads/2023/02/ksal_480x480.png?v=1632942453\"></p>\n<p>Para quem passa o dia trabalhando e não tem tempo para brincar com o seu pet.</p>\n<p>Simule os sons reais de três animais diferentes para atrair a atenção dos gatos e estimular a natureza da caça do gato.</p>\n<p>Enquanto a pata do gato tocar ligeiramente a bola, ela fará um som. Reduzindo o tédio e aumentar a atividade do seu gato, trazendo assim mais diversão para o seu gato.</p>\n<p>Cada brinquedo soará até 10000 vezes. Para proteger animais de estimação, a bateria é fixada dentro. Para evitar que o gatinho danifique a bateria, a bateria é embutida no brinquedo e não pode ser substituída.</p>\n<p>O mais legal é que você pode adicionar Catnip dentro de cada bolinha assim ela ficará mais irresistível para seu amiguinho.</p>\n<p>Permitindo que seu gato se exercite e permaneça saudável.</p>\n<h3><img height=\"672\" width=\"504\" src=\"https://i.imgur.com/IRh0UyW.gif\"></h3>\n<p><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/Inserirumtitulo_1000x1100px_2_480x480.png?v=1672020021\"></p>\n<div aria-hidden=\"true\">\n<div role=\"dialog\">",
+   "price_cents": 7590,
+   "compare_at_cents": null,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Screenshot_14.png",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Screenshot_13.png",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Screenshot_6.png",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sf8406b045f85402da8568d1c5ba3b5847.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Screenshot_7.png"
+   ],
+   "categories": [
+    "pets"
+   ],
+   "options": [
+    {
+     "name": "Cor",
+     "values": [
+      "Rosa",
+      "Amarelo",
+      "Azul"
+     ]
+    }
+   ],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": false,
+   "rating": 4.6,
+   "review_count": 5,
+   "active": true
+  },
+  {
+   "slug": "aquecedor-hotcoffe-de-caneca-inteligente",
+   "name": "Aquecedor HotCoffe de Caneca Inteligente",
+   "sku": "14:193#5V 2A USB Power",
+   "short_description": "",
+   "description": "<strong>Tomar café ou chá frio? Nunca mais!!!</strong>\nSe está cansado de preparar seu café, chá ou achocolatado e vê-lo esfriar em sua caneca rapidamente depois de pronto,<br><strong>Temos a solução!</strong><br><br><strong>Pequeno e fácil de transportar para onde você quiser!</strong><br>O Aquecedor de<strong>Caneca Inteligente HotCoffe</strong>tem aproximadamente o tamanho da palma da sua mão.<br><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/cafe_480x480.png?v=1652406149\"><br><strong>Segurança em primeiro lugar!</strong><br>Possui um sistema de desligamento automático. Caso você esqueça, a energia é cortada automaticamente.\n<img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/cafee_480x480.png?v=1652406159\"><br><strong>Mantenha sua bebida favorita em uma temperatura agradável e controlada por muito tempo!</strong><br><br><strong>De acordo com seu gosto!</strong><br>Possui 3 níveis de aquecimento.<br><br><em><strong>É compatível com canecas de diversos materiais!</strong></em>\n<strong><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/cafeeee_480x480.png?v=1652406179\"></strong><br><strong>Praticidade com você, onde estiver!</strong><br>Poderá utilizar com fonte diretamente na tomada, no seu Power Bank ou em uma entrada USB de computador.\n<br><img alt=\"\" src=\"https://terapimax.com.br/wp-content/uploads/2023/02/cafeee_480x480.png?v=1652406169\">\n<br><strong>Características</strong><br><br>– Fabricado com abs/pc/silicone/vidro<br>– Potência nominal de 10w<br>– Peso bruto de 140g<br>– Tamanho exterior da caixa de 192mmx174mmx40mm<br>– Tamanho do produto de 132X118X20mm\n<br />",
+   "price_cents": 24990,
+   "compare_at_cents": 30299,
+   "images": [
+    "https://terapimax.com.br/wp-content/uploads/2023/02/Sa488e10b2d2e47fcb7e1948fa732c50ee.jpg",
+    "https://terapimax.com.br/wp-content/uploads/2023/02/S3257e74c47564edcb048a606cedb0f42c.jpg"
+   ],
+   "categories": [
+    "casa-cozinha-e-jardim"
+   ],
+   "options": [],
+   "in_stock": true,
+   "is_bestseller": false,
+   "is_new": true,
+   "is_featured": false,
+   "rating": 4.4,
+   "review_count": 5,
+   "active": true
+  }
+ ],
+ "pages": [
+  {
+   "slug": "politica-de-reembolso",
+   "title": "Política de Reembolso",
+   "content": "<h2>Política de Reembolso, Trocas e Devoluções – Terapimax</h2><p>A <strong>Terapimax</strong> preza pela satisfação de seus clientes e atua em conformidade com o <strong>Código de Defesa do Consumidor (Lei nº 8.078/90)</strong>. Esta política estabelece as condições para <strong>trocas, devoluções e reembolsos</strong> realizados em nosso e-commerce.</p><hr><h2>1. Direito de Arrependimento</h2><p>Conforme o artigo 49 do Código de Defesa do Consumidor, o cliente que realizar uma compra em nosso e-commerce poderá solicitar a <strong>devolução por arrependimento em até 7 (sete) dias corridos</strong>, contados a partir do recebimento do produto.</p><h3>Condições para devolução por arrependimento:</h3><ul><li><p>O produto deve estar <strong>sem sinais de uso</strong></p></li><li><p>Deve ser devolvido em sua <strong>embalagem original</strong></p></li><li><p>Deve conter <strong>todos os acessórios, manuais e nota fiscal</strong></p></li></ul><hr><h2>2. Trocas de Produtos</h2><p>O cliente poderá solicitar a <strong>troca do produto em até 7 (sete) dias corridos</strong> após o recebimento, desde que o item:</p><ul><li><p>Esteja em <strong>perfeito estado</strong></p></li><li><p>Não apresente sinais de uso</p></li><li><p>Esteja na <strong>embalagem original</strong></p></li></ul><h3>Como solicitar uma troca:</h3><p>O cliente deverá entrar em contato através de um dos canais abaixo, informando:</p><ul><li><p>Nome completo</p></li><li><p>Número do pedido</p></li><li><p>Motivo da troca</p></li></ul><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a><br><strong>WhatsApp Oficial:</strong> Página da Terapimax<br><strong>SAC:</strong> canais oficiais da loja</p><p>Após o contato, nossa equipe retornará com as instruções para a troca.</p><hr><h2>3. Produtos com Defeito de Fabricação</h2><p>Nos casos de <strong>defeito de fabricação</strong>, o cliente poderá solicitar a troca, conserto ou reembolso no prazo de <strong>até 30 (trinta) dias corridos</strong>, conforme previsto pelo Código de Defesa do Consumidor.</p><p>Após o recebimento do produto, a Terapimax terá até <strong>30 dias</strong> para análise técnica e solução do problema.</p><h3>Como solicitar manutenção, troca ou reembolso:</h3><p>Entre em contato informando:</p><ul><li><p>Nome completo</p></li><li><p>Número do pedido</p></li><li><p>Número da Nota Fiscal</p></li><li><p>Descrição detalhada do defeito</p></li><li><p>Fotos ou vídeos que evidenciem o problema</p></li></ul><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a><br><strong>WhatsApp Oficial:</strong> Página da Terapimax<br><strong>SAC:</strong> canais oficiais</p><hr><h2>4. Reembolso</h2><p>Após a aprovação da devolução ou constatação do defeito, o <strong>reembolso será realizado utilizando o mesmo método de pagamento utilizado na compra</strong>, sem qualquer custo adicional para o cliente.</p><h3>Prazos:</h3><ul><li><p>O reembolso será processado em até <strong>30 dias corridos</strong> após o recebimento e análise do produto devolvido.</p></li><li><p>Em compras com cartão de crédito, o estorno poderá ocorrer em até <strong>2 faturas subsequentes</strong>, conforme regras da operadora.</p></li></ul><hr><h2>5. Envio da Devolução (Logística Reversa)</h2><p>Em conformidade com o Código de Defesa do Consumidor:</p><ul><li><p>Os <strong>custos de envio</strong> da devolução por <strong>arrependimento ou defeito de fabricação</strong> serão <strong>totalmente cobertos pela Terapimax</strong>.</p></li></ul><p>Após a solicitação, o cliente receberá por e-mail um <strong>código de autorização de postagem</strong>, devendo enviar o produto em uma agência dos Correios.</p><p><strong>Importante:</strong></p><ul><li><p>Não cobrimos custos com novas embalagens</p></li><li><p>Recomendamos utilizar a <strong>embalagem original</strong> (caso não esteja danificada) ou outra embalagem adequada para proteger o produto durante o transporte</p></li></ul><hr><h2>6. Compras Presenciais</h2><p>O <strong>direito de arrependimento não se aplica a compras realizadas presencialmente</strong> (lojas físicas, eventos ou vendas diretas), uma vez que o consumidor pode inspecionar o produto antes da compra.</p><p>No entanto, caso o produto apresente defeito e o problema não seja resolvido no prazo legal de <strong>30 dias</strong>, o consumidor poderá ter direito à devolução do valor pago.</p><hr><h2>7. Contato</h2><p>Caso tenha qualquer dúvida sobre nossa <strong>Política de Reembolso, Trocas e Devoluções</strong>, entre em contato conosco:</p><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br</a></p>",
+   "published": true
+  },
+  {
+   "slug": "aviso-legal",
+   "title": "Aviso legal",
+   "content": "<p>Os perfumes da Perfumais é um produto original da marca Perfumais, possui uma fragrância desenvolvida pela empresa, com formulação própria e exclusiva. A proposta destes perfumes não é ser idêntico a nenhum outro perfume, porque molecularmente e quimicamente isto é impossível. A comparação com os perfumes importados é apenas para facilitar a identificação olfativa daquilo que você está comprando. Quem aprecia as fragrâncias mencionadas como parecidas poderá também se identificar com nossa fragrância. Indicar rotas olfativas como referência olfativa não constitui em promessa de entregar fragrância idêntica a utilizada como referência e nem proporcionar a mesma experiência sensorial obtida com outros produtos, de outros fabricantes. As marcas e produtos usados como referência olfativa, registrados ou não, são de propriedade das empresas que as produzem e comercializam, e não possuem qualquer vínculo com a Perfumais.</p>\n<p>Todos nossos produtos são enviados em embalagens de 100ml, são lacrados e possuem garantia de 7 dias (protegida por lei).</p>\n<p>Exemplo de nossas embalagens:</p>\n<p><img loading=\"lazy\" decoding=\"async\" src=\"https://terapimax.com.br/wp-content/uploads/2022/11/82ef3a5919-355x300.webp\" alt=\"\" width=\"355\" height=\"300\" /></p>",
+   "published": true
+  },
+  {
+   "slug": "politica-de-privacidade",
+   "title": "Política de Privacidade",
+   "content": "<h1>Política de Privacidade:</h1>\n<h2>1. Informações Gerais</h2>\nA presente Política de Privacidade contém informações sobre a coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes em nossa loja, com o objetivo de demonstrar total transparência sobre o assunto e esclarecer os tipos de dados coletados, os motivos da coleta e como o usuário pode gerenciar ou excluir suas informações.\nEsta Política se aplica a todos os usuários e visitantes e integra os Termos e Condições Gerais de Uso da loja.\nFoi elaborada em conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei 13.709/18), o Marco Civil da Internet (Lei 12.965/14) e o Regulamento da UE n. 2016/679. Esta política poderá ser atualizada a qualquer momento em razão de alterações normativas, por isso é recomendada a consulta periódica.\n<h2>2. Como Recolhemos os Dados Pessoais</h2>\nOs dados pessoais são recolhidos de três formas:\n<ul>\n \t<li><strong>Criação de conta:</strong> Ao criar uma conta na loja, coletamos dados como telefone, e-mail, nome completo, endereço e documentos (CPF ou CNPJ), garantindo maior segurança e personalização dos serviços.</li>\n \t<li><strong>Acesso à loja:</strong> Durante a navegação, coletamos informações como palavras-chave utilizadas, visualizações de páginas, URL de origem, navegador e IP de acesso para melhorar a experiência do usuário.</li>\n \t<li><strong>Por meio de terceiros:</strong> Recebemos dados de plataformas como Facebook e Google, quando o usuário opta por login com essas contas.</li>\n</ul>\n<h2>3. Finalidade do Uso dos Dados Pessoais</h2>\nOs dados pessoais coletados são utilizados para:\n<ul>\n \t<li>Aprimorar produtos e serviços oferecidos.</li>\n \t<li>Facilitar o cumprimento de compromissos com o usuário.</li>\n \t<li>Exibir anúncios personalizados.</li>\n \t<li>Personalizar o conteúdo e melhorar a funcionalidade da loja.</li>\n \t<li>Realizar tratamento automatizado de dados para previsão de comportamento do usuário.</li>\n \t<li>Permitir acesso a conteúdos exclusivos para usuários cadastrados.</li>\n</ul>\n<h2>4. Segurança dos Dados Pessoais</h2>\nAdotamos medidas técnicas e organizativas para proteger os dados de acessos não autorizados. As informações de cartões de crédito são transmitidas de forma criptografada via SSL (Secure Socket Layer).\nNão nos responsabilizamos por acessos não autorizados causados por terceiros (hackers) ou pelo próprio usuário, e em caso de violação de segurança, notificaremos imediatamente o usuário.\nPodemos divulgar dados pessoais se obrigados por lei.\n<h2>5. Compartilhamento e Tratamento de Dados</h2>\nOs dados pessoais podem ser compartilhados com parceiros responsáveis por transações de pagamento, TI, contabilidade, pesquisa e desenvolvimento, segurança e obrigações legais.\nAo usar nossos serviços, o usuário consente com o processamento e transferência desses dados, inclusive para outros países.\nSites ou aplicativos de terceiros não são regidos por esta política. Recomendamos que o usuário leia as políticas de privacidade desses sites.\n<h2>6. Cookies ou Dados de Navegação</h2>\nUsamos cookies para armazenar dados de navegação, como local e horário de acesso. Eles ajudam na personalização dos serviços oferecidos.\nO usuário pode excluir ou bloquear cookies a qualquer momento nas configurações do navegador, mas algumas funcionalidades da loja podem ser afetadas.\n<h2>7. Links para Outros Sites</h2>\nNossa loja pode conter links para sites de terceiros. Não nos responsabilizamos pelas políticas de privacidade desses sites. Recomendamos que o usuário leia as políticas desses sites antes de fornecer seus dados.\n<h2>8. Consentimento</h2>\nAo utilizar nossos serviços e fornecer dados pessoais, o usuário está concordando com esta Política de Privacidade.\nO usuário pode cancelar seu cadastro ou atualizar seus dados a qualquer momento. Para retirar seu consentimento, entre em contato através do canal de atendimento informado abaixo.\n<h2>9. Revisões à Política</h2>\nPoderemos alterar esta política, e tais modificações serão publicadas nesta página. Em caso de fusão ou venda da empresa, os dados dos usuários poderão ser transferidos aos novos proprietários para garantir a continuidade dos serviços.\n<h2>10. Contato</h2>\nPara questões relacionadas à privacidade, entre em contato com o Data Protection Officer (DPO) pelo e-mail ou endereço informados na área de contato da loja.\n<h2>11. Jurisdição para Resolução de Conflitos</h2>\nEsta política é regida pelas leis brasileiras. Qualquer controvérsia será resolvida no Foro da Comarca da nossa sede.",
+   "published": true
+  },
+  {
+   "slug": "trocas-e-devolucoes",
+   "title": "Políticas de troca e devolução",
+   "content": "<h2>Política de Trocas, Devoluções e Reembolso – Terapimax</h2><p>Pedimos que leia atentamente esta política. Nosso objetivo é garantir uma experiência segura, transparente e justa para você. Em caso de dúvidas, conte sempre com a <strong>Terapimax</strong>.</p><p>Antes de enviar qualquer produto para troca ou devolução, é <strong>obrigatório</strong> entrar em contato com nossa Central de Atendimento para receber as orientações corretas.</p><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a><br><strong>WhatsApp Oficial:</strong> canais da página Terapimax</p><hr><h2>1. Condições Gerais</h2><ul><li><p>Não realizamos trocas, devoluções ou reembolsos de produtos com <strong>sinais de mau uso</strong>.</p></li><li><p>O produto deverá estar, sempre que aplicável, em <strong>embalagem original</strong>, acompanhado de acessórios e nota fiscal.</p></li><li><p>Solicitações fora dos prazos legais não serão aceitas.</p></li></ul><hr><h2>2. Direito de Arrependimento (Compras Online)</h2><p>Conforme o <strong>art. 49 do Código de Defesa do Consumidor</strong>, o cliente poderá desistir da compra em até <strong>7 (sete) dias corridos</strong> a partir do recebimento do produto.</p><h3>Como solicitar:</h3><p>O cliente deverá entrar em contato informando:</p><ul><li><p>Nome completo</p></li><li><p>Número do pedido</p></li><li><p>Motivo da solicitação</p></li><li><p>Fotos ou vídeos do produto (quando solicitado)</p></li></ul><p>Após a análise e aprovação:</p><ul><li><p>Será enviada uma <strong>autorização de postagem (logística reversa)</strong></p></li><li><p>A autorização possui validade de <strong>6 dias corridos</strong></p></li><li><p>Caso o produto não seja postado dentro do prazo, a solicitação será cancelada</p></li></ul><p>Após o recebimento do produto e análise de integridade, o <strong>reembolso será realizado integralmente</strong>.</p><hr><h2>3. Reembolso</h2><p>O reembolso será realizado pelo <strong>mesmo meio de pagamento utilizado na compra</strong>, sem custos adicionais.</p><ul><li><p><strong>Cartão de crédito:</strong> estorno solicitado à operadora em até <strong>10 dias úteis</strong>, podendo ocorrer em até 2 faturas subsequentes</p></li><li><p><strong>Pix ou boleto:</strong> reembolso via transferência bancária em até <strong>10 dias úteis</strong>, para conta do titular da compra</p></li></ul><hr><h2>4. Política de Troca</h2><p>Caso o cliente deseje realizar a troca do produto, a solicitação deverá ser feita dentro do prazo legal, informando o motivo.</p><h3>Como solicitar:</h3><p>O contato deverá conter:</p><ul><li><p>Nome completo</p></li><li><p>Número do pedido</p></li><li><p>Motivo da troca</p></li><li><p>Fotos ou vídeos (em caso de defeito ou avaria)</p></li></ul><p>Após a aprovação:</p><ul><li><p>Será enviada uma <strong>etiqueta de devolução</strong>, com validade de <strong>6 dias corridos</strong></p></li><li><p>Após a postagem, o produto de troca será enviado para o endereço cadastrado</p></li><li><p>O novo código de rastreamento será informado por e-mail</p></li></ul><p>A troca poderá ser realizada por:</p><ul><li><p>Produto igual (se disponível em estoque), ou</p></li><li><p>Outro produto disponível, mediante ajuste de valores, se houver diferença</p></li></ul><hr><h2>5. Produtos com Defeito de Fabricação</h2><p>Produtos com <strong>defeito de fabricação</strong> poderão ser solicitados para troca ou reembolso no prazo de <strong>até 30 (trinta) dias corridos</strong>, conforme o Código de Defesa do Consumidor.</p><h3>Procedimento:</h3><ul><li><p>Envio de fotos e/ou vídeos comprovando o defeito</p></li><li><p>Análise técnica após o recebimento do produto</p></li><li><p>Prazo médio de análise: <strong>até 5 dias úteis</strong></p></li></ul><p>Se confirmado o defeito:</p><ul><li><p>O cliente poderá optar por <strong>troca</strong> ou <strong>reembolso</strong></p></li><li><p>O envio será realizado <strong>sem custo adicional</strong></p></li></ul><h3>Não são considerados defeitos:</h3><ul><li><p>Mau uso</p></li><li><p>Danos acidentais</p></li><li><p>Desgaste natural</p></li><li><p>Uso inadequado</p></li><li><p>Higienização ou limpeza incorreta</p></li></ul><hr><h2>6. Cancelamento de Pedido</h2><p>O pedido poderá ser cancelado enquanto estiver com status:</p><ul><li><p>“Aguardando pagamento”</p></li><li><p>“Pagamento confirmado”</p></li></ul><p>Caso o pedido já tenha sido enviado, o cliente deverá aguardar o recebimento e solicitar a devolução dentro do prazo legal.</p><hr><h2>7. Logística Reversa</h2><p>Nos casos de:</p><ul><li><p>Direito de arrependimento</p></li><li><p>Defeito de fabricação</p></li></ul><p>Os <strong>custos de envio da devolução</strong> serão cobertos pela <strong>Terapimax</strong>, conforme legislação vigente.</p><p>Não cobrimos custos com <strong>novas embalagens</strong>. Utilize a embalagem original ou outra adequada para proteger o produto.</p><hr><h2>8. Atendimento</h2><p>Em caso de dúvidas, solicitações ou orientações, entre em contato com nossa equipe:</p><p><strong>Horário de Atendimento:</strong><br>Segunda a sexta-feira, das <strong>09h às 18h</strong></p><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a><br><strong>WhatsApp Oficial:</strong> canais da página Terapimax</p>",
+   "published": true
+  },
+  {
+   "slug": "politica-de-cookies",
+   "title": "Política de cookies",
+   "content": "<p>Utilizamos cookies para tornar seu acesso personalizado de acordo com o seu gosto e suas escolhas e, com isso, garantir que a sua experiência em nossa loja seja a melhor possível.<br />\nA presente Política tem como objetivo fornecer informações objetivas e claras sobre o que são cookies, qual papel desempenham e como configurá-los.</p>\n<p>O que são Cookies?<br />\nCookies são pequenos arquivos de texto ou fragmentos de informação que são baixados em seu computador, smartphone ou qualquer outro dispositivo com acesso à internet quando você visita um site.<br />\nEles contêm informações sobre a sua navegação em nossa loja e retêm apenas informações relacionadas a suas preferências.<br />\nAssim, essa página consegue armazenar e recuperar os dados sobre os seus hábitos de navegação, de forma a melhorar a experiência de uso, por exemplo.<br />\nÉ importante frisar que eles não contêm informações pessoais específicas, como dados sensíveis ou bancários.<br />\nO seu navegador armazena os cookies no disco rígido, mas ocupam um espaço de memória mínimo, que não afetam o desempenho do seu computador. A maioria das informações são apagadas logo ao encerrar a sessão, como você verá no próximo tópico.</p>\n<p>1.1. Tipos de Cookies<br />\nOs cookies, quanto a seus proprietários, podem ser:<br />\nCookies proprietários: são cookies definidos por nós ou por terceiros em nosso nome<br />\nCookies de terceiros: são cookies definidos por terceiros confiáveis em nossa aplicação<br />\nOs cookies, quanto ao seu tempo de vida, podem ser:<br />\nCookies de sessão ou temporários: são cookies que expiram assim que você fecha o seu navegador, encerrando a sessão.<br />\nCookies persistentes ou permanentes: são cookies que permanecem no seu dispositivo durante um período determinado ou até que você os exclua.<br />\nOs cookies, quanto a sua finalidade, podem ser:<br />\nCookies necessários: são cookies essenciais que possibilitam a navegação em nossas aplicações e o acesso a todos os recursos; se estes, nossos serviços podem apresentar mal desempenho ou não funcionar.<br />\nCookies de desempenho: são cookies que otimizam a forma que nossas aplicações funcionam, coletando informações anônimas sobre as páginas acessadas.<br />\nCookies de funcionalidade: são cookies que memorizam suas preferências e escolhas (como seu nome de usuário)<br />\nCookies de publicidade: são cookies que direcionam anúncios em função dos seus interesses e limitam a quantidade de vezes que o anúncio aparece.</p>\n<p>Por que usamos Cookies?<br />\nAtravés dos cookies, buscamos otimizar sua navegação em nossa página a partir de suas preferências e, com essas informações, ajustar o conteúdo para torná-lo mais relevante para você.<br />\nOs cookies participam deste processo porquanto armazenam, leem e executam os dados necessários para cumprir com o nosso objetivo.</p>\n<p>Gerenciamento dos Cookies<br />\nA instalação dos cookies está sujeita ao seu consentimento. Apesar da maioria dos navegadores estar inicialmente configurada para aceitar cookies de forma automática, você pode rever suas permissões a qualquer tempo, de forma a bloqueá-los, aceitá-los ou ativar notificações para quando alguns cookies forem enviados ao seu dispositivo.<br />\nAtualmente, na primeira vez que você acessar nosso site, será solicitada a sua concordância com a instalação destes. Apenas após a sua aceitação eles serão ativados.<br />\nPara tanto, utilizamos um sistema de (banner de informações ou outro mecanismo que alerta e solicita o consentimento) em nossa página inicial. Dessa maneira, não apenas solicitamos sua concordância, mas também informamos que a navegação continuada em nosso site será entendida como consentimento.<br />\nComo já dito, você pode, a qualquer tempo e sem nenhum custo, alterar as permissões, bloquear ou recusar os cookies. Você também pode configurá-los caso a caso. Todavia, a revogação do consentimento de determinados cookies pode inviabilizar o funcionamento correto de alguns recursos da plataforma.<br />\nPara gerenciar os cookies do seu navegador, basta fazê-lo diretamente nas configurações do navegador, na área de gestão de Cookies.<br />\nVocê pode acessar tutoriais sobre o tema diretamente nos links abaixo:<br />\nSe você usa o Internet Explorer.<br />\nSe você usa o Firefox.<br />\nSe você usa o Safari.<br />\nSe você usa o Google Chrome.<br />\nSe você usa o Microsoft Edge.<br />\nSe você usa o Opera.</p>\n<p>Disposições finais<br />\nPara nós, a privacidade e confiança são fundamentais para a nossa relação com você. Estamos sempre nos atualizando para manter os mais altos padrões de segurança<br />\nAssim, reservamo-nos o direito de alterar esta Política de Cookies a qualquer tempo.</p>",
+   "published": true
+  },
+  {
+   "slug": "termos-de-servico",
+   "title": "Termos de serviço",
+   "content": "<h2>Termos de Serviço e Política de Cookies – Terapimax</h2><p>A <strong>Terapimax</strong> utiliza cookies e tecnologias semelhantes para proporcionar uma experiência de navegação mais segura, personalizada e eficiente. Ao acessar nosso site, você concorda com o uso dessas tecnologias conforme descrito neste documento.</p><p>A presente política tem como objetivo explicar de forma clara <strong>o que são cookies, como os utilizamos e como você pode gerenciá-los</strong>.</p><hr><h2>1. O que são Cookies?</h2><p>Cookies são pequenos arquivos de texto armazenados no seu computador, smartphone ou outro dispositivo com acesso à internet quando você visita um site.</p><p>Eles servem para:</p><ul><li><p>Reconhecer suas preferências</p></li><li><p>Melhorar sua experiência de navegação</p></li><li><p>Tornar o site mais funcional e eficiente</p></li></ul><p>Os cookies <strong>não armazenam dados sensíveis</strong>, como informações bancárias ou senhas, e ocupam espaço mínimo no dispositivo, sem afetar seu desempenho.</p><hr><h2>2. Tipos de Cookies Utilizados</h2><h3>2.1 Quanto à origem</h3><ul><li><p><strong>Cookies proprietários:</strong> definidos pela própria Terapimax</p></li><li><p><strong>Cookies de terceiros:</strong> definidos por parceiros confiáveis, utilizados para funcionalidades específicas</p></li></ul><h3>2.2 Quanto ao tempo de vida</h3><ul><li><p><strong>Cookies de sessão:</strong> expiram automaticamente ao encerrar o navegador</p></li><li><p><strong>Cookies persistentes:</strong> permanecem armazenados por um período determinado ou até serem excluídos</p></li></ul><h3>2.3 Quanto à finalidade</h3><ul><li><p><strong>Cookies necessários:</strong> essenciais para o funcionamento do site e acesso aos recursos</p></li><li><p><strong>Cookies de desempenho:</strong> coletam dados anônimos sobre uso e navegação, ajudando a melhorar o site</p></li><li><p><strong>Cookies de funcionalidade:</strong> armazenam preferências e personalizações do usuário</p></li><li><p><strong>Cookies de publicidade:</strong> utilizados para exibir anúncios mais relevantes e limitar a repetição de conteúdos publicitários</p></li></ul><hr><h2>3. Por que usamos Cookies?</h2><p>Utilizamos cookies para:</p><ul><li><p>Otimizar sua navegação</p></li><li><p>Personalizar conteúdos e funcionalidades</p></li><li><p>Melhorar continuamente nossos serviços</p></li><li><p>Garantir segurança e desempenho da plataforma</p></li></ul><p>Essas informações nos ajudam a oferecer uma experiência mais alinhada às suas preferências.</p><hr><h2>4. Consentimento e Gerenciamento de Cookies</h2><p>A instalação dos cookies depende do seu <strong>consentimento</strong>.</p><p>Na primeira visita ao site <strong><a rel=\"noopener\" target=\"_new\" href=\"http://www.terapimax.com.br\">www.terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a></strong>, você verá um <strong>banner de consentimento</strong>, onde poderá aceitar, recusar ou configurar o uso de cookies. Apenas após sua concordância os cookies serão ativados.</p><p>Você pode, a qualquer momento:</p><ul><li><p>Alterar ou revogar seu consentimento</p></li><li><p>Bloquear ou excluir cookies</p></li><li><p>Configurar cookies individualmente no seu navegador</p></li></ul><p>Importante: a desativação de alguns cookies pode comprometer o funcionamento correto de determinadas funcionalidades do site.</p><hr><h2>5. Como gerenciar cookies no navegador</h2><p>Você pode gerenciar cookies diretamente nas configurações do seu navegador. Consulte os guias oficiais:</p><ul><li><p>Google Chrome</p></li><li><p>Mozilla Firefox</p></li><li><p>Safari</p></li><li><p>Microsoft Edge</p></li><li><p>Opera</p></li></ul><hr><h2>6. Privacidade e Segurança</h2><p>A Terapimax preza pela <strong>privacidade, transparência e segurança</strong> dos dados de seus usuários. Utilizamos padrões elevados de proteção e seguimos as diretrizes da <strong>Lei Geral de Proteção de Dados (LGPD)</strong>.</p><p>Não vendemos, não compartilhamos e não utilizamos dados pessoais de forma indevida.</p><hr><h2>7. Atualizações desta Política</h2><p>A Terapimax se reserva o direito de <strong>alterar estes Termos de Serviço e Política de Cookies a qualquer momento</strong>, visando melhorias ou adequações legais. Recomendamos a consulta periódica desta página.</p><hr><h2>8. Contato</h2><p>Em caso de dúvidas sobre estes termos, entre em contato conosco:</p><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br</a></p>",
+   "published": true
+  },
+  {
+   "slug": "politica-de-frete",
+   "title": "Políticas de Frete",
+   "content": "<h2>Política de Entregas – Terapimax</h2><p>A <strong>Terapimax</strong> trabalha para garantir que seus pedidos sejam processados e entregues com segurança, transparência e dentro dos prazos informados. Esta Política de Entregas descreve as condições relacionadas ao envio, prazos e recebimento dos produtos adquiridos em nosso e-commerce.</p><hr><h2>1. Processamento de Pedidos e Prazos</h2><p>O prazo de entrega passa a contar a partir da <strong>confirmação do pagamento</strong>.</p><ul>\n<li>\n<p>Pedidos com pagamento confirmado <strong>até às 13h30</strong> serão processados <strong>no mesmo dia</strong>, com postagem prevista para o <strong>próximo dia útil</strong>.</p>\n</li>\n<li>\n<p>Pedidos com pagamento confirmado <strong>após às 13h30</strong> serão processados <strong>no próximo dia útil</strong>.</p>\n</li>\n</ul><p>As entregas são realizadas de <strong>segunda a sexta-feira, das 8h às 18h</strong>, exceto em feriados nacionais, estaduais ou municipais.</p><hr><h2>2. Prazos de Entrega</h2><p>O prazo de entrega informado no momento da compra é <strong>estimado</strong> e pode sofrer alterações em casos excepcionais, tais como:</p><ul>\n<li>\n<p>Feriados nacionais, estaduais ou locais</p>\n</li>\n<li>\n<p>Greves ou paralisações de serviços de transporte</p>\n</li>\n<li>\n<p>Condições climáticas adversas</p>\n</li>\n<li>\n<p>Áreas de risco ou de difícil acesso</p>\n</li>\n</ul><p>Caso o prazo coincida com um <strong>feriado local na região do destinatário</strong>, a entrega poderá ser automaticamente estendida para o <strong>próximo dia útil</strong>.</p><hr><h2>3. Frete Grátis</h2><p>A Terapimax oferece <strong>frete grátis</strong> para produtos identificados com o selo <strong>“Frete Grátis”</strong>.</p><ul>\n<li>\n<p>A elegibilidade do frete gratuito pode variar conforme o produto, região de entrega e condições promocionais vigentes.</p>\n</li>\n<li>\n<p>As informações completas estarão sempre descritas na página do produto.</p>\n</li>\n</ul><hr><h2>4. Acompanhamento do Pedido</h2><p>Após a postagem do pedido, o cliente receberá um <strong>código de rastreamento</strong>, que permitirá o acompanhamento da entrega em tempo real por meio do site da transportadora responsável.</p><hr><h2>5. Recebimento do Produto</h2><p>No momento da entrega, orientamos que o cliente:</p><ul>\n<li>\n<p>Verifique a integridade da embalagem</p>\n</li>\n<li>\n<p>Confirme se o produto está em perfeitas condições</p>\n</li>\n</ul><p>Caso seja identificada qualquer <strong>avaria, violação ou divergência</strong>, a entrega deverá ser <strong>recusada</strong>, e o cliente deverá entrar em contato imediatamente com a Terapimax.</p><p>Reclamações relacionadas a danos ou divergências <strong>não serão aceitas após a confirmação do recebimento sem ressalvas</strong>.</p><hr><h2>6. Endereço de Entrega</h2><p>É de responsabilidade do cliente garantir que o <strong>endereço informado esteja correto e completo</strong> no momento da compra.</p><ul>\n<li>\n<p>Em casos de endereço incorreto, incompleto ou ausência do destinatário, o pedido poderá retornar ao centro de distribuição.</p>\n</li>\n<li>\n<p>O <strong>reenvio do pedido</strong> será realizado mediante o <strong>pagamento de um novo frete</strong>.</p>\n</li>\n</ul><hr><h2>7. Nota Fiscal e Embalagem</h2><p>Recomendamos que o cliente <strong>guarde a nota fiscal e a embalagem original</strong>, pois esses itens são indispensáveis em eventuais solicitações de troca, devolução ou garantia.</p><hr><h2>8. Entregas para Pessoa Jurídica</h2><p>Para compras realizadas por <strong>Pessoa Jurídica</strong>, poderão ser aplicadas regras específicas relacionadas ao <strong>ICMS e à Substituição Tributária</strong>, conforme a legislação vigente.</p><hr><h2>9. Alterações na Política de Entregas</h2><p>A Terapimax se reserva o direito de <strong>alterar esta Política de Entregas a qualquer momento</strong>, visando melhorias nos processos ou adequações legais.</p><p>Recomendamos que o cliente consulte esta página periodicamente para se manter informado sobre possíveis atualizações.</p><hr><h2>10. Contato</h2><p>\n</p><p>Em caso de dúvidas, atrasos ou qualquer problema relacionado à entrega, entre em contato conosco pelos canais oficiais disponíveis em nossa página de <strong>Contato</strong>.</p>",
+   "published": true
+  },
+  {
+   "slug": "sobre-nos",
+   "title": "Sobre Nós",
+   "content": "<h2>Quem Somos – Terapimax</h2><p>Bem-vindo à <strong>Terapimax</strong>.</p><p>Somos uma empresa brasileira especializada em <strong>saúde, bem-estar e qualidade de vida</strong>, dedicada a desenvolver e oferecer produtos tecnológicos que promovem conforto, relaxamento e mais equilíbrio físico e mental no dia a dia das pessoas.</p><p>Acreditamos que cuidar do corpo e da mente não é luxo é necessidade. Por isso, trabalhamos para tornar soluções de bem-estar <strong>acessíveis, eficientes e confiáveis</strong>, levando mais saúde para dentro dos lares.</p><hr><h2>Nossa Missão</h2><p>Promover saúde e bem-estar por meio de produtos tecnológicos e de alta qualidade, proporcionando conforto, relaxamento e mais qualidade de vida aos nossos clientes.</p><hr><h2>Nossa Visão</h2><p>Ser referência no mercado de saúde e bem-estar, oferecendo soluções inovadoras que transformem a rotina das pessoas, levando saúde física e mental para o maior número de lares possível.</p><hr><h2>Nossos Valores</h2><p>Inovação, compromisso com o cliente, qualidade, acessibilidade e sustentabilidade são os pilares que guiam todas as decisões da Terapimax.</p><hr><h2>Nossa História</h2><p>A <strong>Terapimax nasceu há mais de 10 anos</strong> com um propósito claro: transformar a forma como as pessoas cuidam da própria saúde e bem-estar.</p><p>Começamos com um time pequeno e recursos limitados, mas com uma grande visão. Desde o início, apostamos na inovação e na qualidade, desenvolvendo produtos que cuidam não apenas do corpo, mas também do equilíbrio emocional.</p><p>Ao longo dessa jornada, enfrentamos desafios como crises econômicas, mudanças de mercado e forte concorrência. Ainda assim, mantivemos nosso compromisso com a excelência, construindo uma reputação sólida baseada em <strong>confiança, ética e respeito ao consumidor</strong>.</p><p>Hoje, entramos em uma <strong>nova fase da Terapimax</strong>. Estamos ampliando nosso portfólio e deixando de atuar apenas com massageadores, passando a oferecer uma <strong>linha completa de produtos voltados à saúde e ao bem-estar</strong>, sempre alinhados às novas tecnologias e às reais necessidades das pessoas.</p><hr><h2>O Que Oferecemos</h2><p>A Terapimax oferece soluções voltadas para:</p><ul><li><p>Saúde e bem-estar físico</p></li><li><p>Relaxamento e alívio de tensões</p></li><li><p>Conforto e autocuidado no dia a dia</p></li><li><p>Tecnologia aplicada à qualidade de vida</p></li></ul><p>Todos os nossos produtos passam por <strong>critérios rigorosos de qualidade</strong>, trabalhando com fornecedores confiáveis e processos responsáveis.</p><hr><h2>Compromisso com a Privacidade</h2><p>Levamos a sua privacidade a sério.</p><p>Todas as inscrições e compras realizadas em nosso site<br><strong><a rel=\"noopener\" target=\"_new\" href=\"http://www.terapimax.com.br\">www.terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a></strong><br>são protegidas por <strong>criptografia de ponta</strong>, garantindo total segurança das informações.</p><p>Não criamos perfis de usuários, não vendemos dados pessoais e não compartilhamos informações com terceiros para fins de publicidade ou marketing. Nossos sistemas e aplicativos compartilham apenas os dados que você autoriza.</p><hr><h2>Responsabilidade Ambiental</h2><p>Os produtos da Terapimax são projetados para <strong>minimizar o impacto ambiental</strong> e maximizar eficiência e desempenho.</p><p>Acompanhamos nossa cadeia de fornecimento, investimos em eficiência energética e buscamos garantir que o maior número possível de componentes seja <strong>reciclável</strong>, contribuindo para um futuro mais sustentável.</p><hr><h2>Acessibilidade</h2><p>Desenvolvemos produtos para <strong>dar mais autonomia às pessoas</strong>, integrando recursos de acessibilidade sempre que possível. Acreditamos que o bem-estar deve ser inclusivo e acessível a todos.</p><hr><h2>Fale Conosco</h2><p>Se tiver qualquer dúvida, sugestão ou precisar de suporte, nossa equipe está pronta para ajudar.</p><p><strong>E-mail:</strong> <a rel=\"noopener\">contato@terapimax.com.br<span aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\"><use href=\"/cdn/assets/sprites-core-ikipmley.svg#304883\" fill=\"currentColor\"></use></svg></a></p><hr><p>Obrigado por escolher a <strong>Terapimax</strong>.<br>Seguimos firmes no nosso propósito de cuidar da sua qualidade de vida. <br><strong>E você, cuide do seu corpo, pois a final você mora nele</strong>.</p><p><br><strong>Equipe Terapimax</strong></p>",
+   "published": true
+  },
+  {
+   "slug": "perguntas-frequentes",
+   "title": "Perguntas Frequentes – FAQ",
+   "content": "<h3><strong>Nós sabemos que na hora de comprar em uma loja online sempre surgem algumas dúvidas, né? Então produzimos esse FAQ – Perguntas Frequentes para ajuda-los na hora de fazer uma ótima escolha, ou seja, comprar com a gente! 🙂</strong></h3>\n<p><strong>1 – Quanto tempo demora para chegar meu produto?</strong><br />\nO prazo médio é de 5 a 12 dias úteis para envios via PAC e de 3 à 7 dias úteis para envios via SEDEX, prazo contado a partir do recebimento do código de rastreio (envio do produto), é importante salientar que o prazo máximo para recebimento do produto é de 30 dias (tanto pra PAC quanto SEDEX), pois atrasos e/ou imprevistos com o Correios poderão ocorrer.</p>\n<p><strong>2 – De onde vem o produto?</strong><br />\nNossos produtos são enviados do nosso depósito situado em São Paulo – SP.</p>\n<p><strong>3 – Posso parcelar por boleto ou pix?</strong><br />\nO parcelamento é aceito apenas por Cartão de Crédito. Boleto Bancário e Pix somente a vista.</p>\n<p><strong>Atenção</strong>: O pagamento do <em>BOLETO </em>pode ser feito em qualquer agência bancária ou lotérica.</p>\n<p><strong>4 – Posso retirar pessoalmente?</strong><br />\nNão, todos os envios são feitos por Correios.</p>\n<p><strong>5 – Os produtos da Aquarela Cosméticos são falsificados?</strong></p>\n<p>Não, os perfumes da Aquarela Cosméticos são inspirados nos grandes perfumes importados, (chamamos de contratipos) porém de tudo que existe no mercado eles são os mais próximos aos perfumes importados famosos em termos de proximidade olfativa e fixação. As diferenças entre os perfumes das marcas famosas e o nosso são praticamente inexistentes. No caso dos perfumes, eles possuem 25% de essência 100% autêntica garantindo uma fixação de 8 horas, porém são engarrafados em embalagens econômicas (com um menor custo de produção), desta forma conseguimos um preço mais acessível e mesmo assim entregando o produto com boa qualidade.</p>\n<p><strong>6 – E se minha entrega atrasar? </strong><br />\nFique tranquilo, pode acontecer atrasos sim, mas raramente ocorrem. Seu envio é acompanhado diariamente e caso o produto não chegue por algum motivo inesperado, em até 30 dias úteis contados após o envio, de acordo com os termos de envios e entregas, o pagamento é devolvido 100%.</p>\n<p><b>7 – Posso cancelar meu pedido antes dele chegar na minha residência?</b></p>\n<p>Não, o cancelamento só pode ser solicitado quando o produto chegar na sua residência.</p>\n<p><strong>8 – Quanto tempo meu pedido pode ficar em análise para troca?</strong></p>\n<p>No máximo 7 dias, após esse período você será ressarcido no valor total do seu pedido.</p>\n<p><strong>9 – Os produtos usados para anúncios são idênticos aos enviados pela empresa?</strong></p>\n<p>Não, são produtos meramente ilustrativos.</p>\n<p><strong>Ao efetuar uma compra, o cliente estará de acordo com as condições e normas determinadas pela Aquarela Cosméticos<em>, </em>que poderão ser usadas em ocasiões futuras para defesa da empresa.</strong></p>\n<p><strong>Equipe Perfumais</strong></p>",
+   "published": true
+  },
+  {
+   "slug": "contato",
+   "title": "Contato",
+   "content": "<h1>Fale conosco</h1>\n\t\t\t\t<h1><strong>Quer saber sobre um pedido já realizado? Nos informe o código de seu pedido</strong>! Ele é essencial para lhe respondermos rápido e será algo como: #1234.</h1><p>Caso tenha qualquer <strong>dúvida, comentário ou sugestão</strong> entre em contato conosco!</p><p>Email: suporte@terapimax.com.br<strong><br /></strong>Telefone (WhatsApp):<strong> (11) 91610-9651</strong></p><p>Atendimento de Seg. à Sex. <strong>09:00 às 18:00</strong></p>\n\t\t<div lang=\"pt-BR\" dir=\"ltr\">\n<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul>\n<form action=\"/wp-json/wp/v2/pages?per_page=100&_fields=id%2Cslug%2Ctitle%2Ccontent%2Cstatus#wpcf7-f13-o1\" method=\"post\" aria-label=\"Formulários de contato\" novalidate=\"novalidate\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"13\" />\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"6.0.6\" />\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"pt_BR\" />\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f13-o1\" />\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" />\n<input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" />\n<p><label> Seu nome<br />\n<input size=\"40\" maxlength=\"400\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-name\" /> </label>\n</p>\n<p><label> Seu e-mail<br />\n<input size=\"40\" maxlength=\"400\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"email\" name=\"your-email\" /> </label>\n</p>\n<p><label> Assunto<br />\n<input size=\"40\" maxlength=\"400\" aria-required=\"true\" aria-invalid=\"false\" value=\"\" type=\"text\" name=\"your-subject\" /> </label>\n</p>\n<p><label> Sua mensagem (opcional)<br />\n<textarea cols=\"40\" rows=\"10\" maxlength=\"2000\" aria-invalid=\"false\" name=\"your-message\"></textarea> </label>\n</p>\n<p><input type=\"submit\" value=\"Enviar\" />\n</p><div aria-hidden=\"true\">\n</form>",
+   "published": true
+  }
+ ],
+ "posts": []
+}
