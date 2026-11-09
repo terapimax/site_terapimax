@@ -18,14 +18,35 @@ const SEED = seed as unknown as {
   posts: Post[];
 };
 
+let probe: Promise<boolean> | null = null;
+/**
+ * Usa o banco quando o Supabase está configurado. Durante o build, se o banco não responde
+ * (chaves erradas, tabelas ainda não criadas), usa o seed para o deploy não quebrar.
+ */
+async function dbAvailable() {
+  if (!hasSupabase) return false;
+  if (process.env.NEXT_PHASE !== "phase-production-build") return true;
+  probe ??= (async () => {
+    try {
+      const r = await supabasePublic().from("products").select("id").limit(1);
+      if (r.error) console.warn("Supabase indisponível no build; usando dados de demonstração:", r.error.message);
+      return !r.error;
+    } catch {
+      console.warn("Supabase inacessível no build; usando dados de demonstração.");
+      return false;
+    }
+  })();
+  return probe;
+}
+
 export async function getSettings(): Promise<Settings> {
-  if (!hasSupabase) return SEED.settings;
+  if (!(await dbAvailable())) return SEED.settings;
   const { data } = await supabasePublic().from("settings").select("data").eq("id", 1).maybeSingle();
   return { ...SEED.settings, ...((data?.data as Partial<Settings>) ?? {}) };
 }
 
 export async function getCategories(): Promise<Category[]> {
-  if (!hasSupabase) return [...SEED.categories].sort((a, b) => a.sort_order - b.sort_order);
+  if (!(await dbAvailable())) return [...SEED.categories].sort((a, b) => a.sort_order - b.sort_order);
   const { data, error } = await supabasePublic().from("categories").select("*").order("sort_order");
   if (error) throw error;
   return data as Category[];
@@ -56,7 +77,7 @@ function normalize(s: string) {
 
 export async function getProducts(q: ProductQuery = {}): Promise<Product[]> {
   let list: Product[];
-  if (!hasSupabase) {
+  if (!(await dbAvailable())) {
     list = SEED.products.filter((p) => p.active);
     if (q.category) list = list.filter((p) => p.categories.includes(q.category!));
     if (q.flag) list = list.filter((p) => p[q.flag!]);
@@ -87,7 +108,7 @@ export async function getProducts(q: ProductQuery = {}): Promise<Product[]> {
 }
 
 export async function getProduct(slug: string): Promise<Product | null> {
-  if (!hasSupabase) return SEED.products.find((p) => p.slug === slug && p.active) ?? null;
+  if (!(await dbAvailable())) return SEED.products.find((p) => p.slug === slug && p.active) ?? null;
   const { data } = await supabasePublic()
     .from("products")
     .select("*")
@@ -99,7 +120,7 @@ export async function getProduct(slug: string): Promise<Product | null> {
 
 export async function getProductsBySlugs(slugs: string[]): Promise<Product[]> {
   if (slugs.length === 0) return [];
-  if (!hasSupabase) return SEED.products.filter((p) => slugs.includes(p.slug) && p.active);
+  if (!(await dbAvailable())) return SEED.products.filter((p) => slugs.includes(p.slug) && p.active);
   const { data, error } = await supabasePublic()
     .from("products")
     .select("*")
@@ -110,7 +131,7 @@ export async function getProductsBySlugs(slugs: string[]): Promise<Product[]> {
 }
 
 export async function getBanners(): Promise<Banner[]> {
-  if (!hasSupabase) return SEED.banners.filter((b) => b.active);
+  if (!(await dbAvailable())) return SEED.banners.filter((b) => b.active);
   const { data } = await supabasePublic()
     .from("banners")
     .select("*")
@@ -120,7 +141,7 @@ export async function getBanners(): Promise<Banner[]> {
 }
 
 export async function getPage(slug: string): Promise<Page | null> {
-  if (!hasSupabase) return SEED.pages.find((p) => p.slug === slug && p.published) ?? null;
+  if (!(await dbAvailable())) return SEED.pages.find((p) => p.slug === slug && p.published) ?? null;
   const { data } = await supabasePublic()
     .from("pages")
     .select("*")
@@ -131,13 +152,13 @@ export async function getPage(slug: string): Promise<Page | null> {
 }
 
 export async function getPages(): Promise<Page[]> {
-  if (!hasSupabase) return SEED.pages.filter((p) => p.published);
+  if (!(await dbAvailable())) return SEED.pages.filter((p) => p.published);
   const { data } = await supabasePublic().from("pages").select("slug,title,published").eq("published", true);
   return (data as Page[]) ?? [];
 }
 
 export async function getPosts(): Promise<Post[]> {
-  if (!hasSupabase) return SEED.posts.filter((p) => p.published);
+  if (!(await dbAvailable())) return SEED.posts.filter((p) => p.published);
   const { data } = await supabasePublic()
     .from("posts")
     .select("slug,title,excerpt,cover_url,published,published_at")
@@ -147,7 +168,7 @@ export async function getPosts(): Promise<Post[]> {
 }
 
 export async function getPost(slug: string): Promise<Post | null> {
-  if (!hasSupabase) return SEED.posts.find((p) => p.slug === slug && p.published) ?? null;
+  if (!(await dbAvailable())) return SEED.posts.find((p) => p.slug === slug && p.published) ?? null;
   const { data } = await supabasePublic()
     .from("posts")
     .select("*")

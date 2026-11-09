@@ -1,6 +1,13 @@
 import type { NextConfig } from "next";
 
-const supabaseUrl = new URL(process.env.NEXT_PUBLIC_SUPABASE_URL || "https://placeholder.supabase.co");
+function parseUrl(v: string | undefined) {
+  try {
+    return new URL(v || "https://placeholder.supabase.co");
+  } catch {
+    return new URL("https://placeholder.supabase.co");
+  }
+}
+const supabaseUrl = parseUrl(process.env.NEXT_PUBLIC_SUPABASE_URL);
 
 const nextConfig: NextConfig = {
   images: {
