@@ -126,7 +126,7 @@ seed = {
     "categories": cats_out,
     "products": prods_out,
     "pages": pages_out,
-    "posts": [],
+    "posts": json.loads((out.parent / "blog-posts.json").read_text()) if (out.parent / "blog-posts.json").exists() else [],
 }
 out.write_text(json.dumps(seed, ensure_ascii=False, indent=1))
 print(f"{len(cats_out)} categorias, {len(prods_out)} produtos, {len(pages_out)} páginas -> {out}")

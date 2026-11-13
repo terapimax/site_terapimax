@@ -94,6 +94,10 @@ const pages = [];
 for (const p of seed.pages) pages.push({ ...p, content: await rewriteHtml(p.content, "paginas") });
 await upsert("pages", pages, "slug");
 
+const posts = [];
+for (const p of seed.posts) posts.push({ ...p, cover_url: await copy(p.cover_url, "blog"), content: await rewriteHtml(p.content, "blog") });
+if (posts.length) await upsert("posts", posts, "slug");
+
 const { count } = await sb.from("banners").select("id", { count: "exact", head: true });
 if (!count) {
   const banners = [];

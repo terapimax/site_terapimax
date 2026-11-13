@@ -18,6 +18,22 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "terapimax.com.br" },
     ],
   },
+  // blog.terapimax.com.br mostra o blog na raiz (/ -> /b, /post -> /b/post), com cabeçalho próprio.
+  async rewrites() {
+    const blogHost = [{ type: "host" as const, value: "blog.terapimax.com.br" }];
+    return {
+      beforeFiles: [
+        { source: "/", has: blogHost, destination: "/b" },
+        { source: "/blog", has: blogHost, destination: "/b" },
+        { source: "/blog/:slug", has: blogHost, destination: "/b/:slug" },
+        {
+          source: "/:slug((?!_next|api|admin|b|logo|favicon|robots|sitemap).+)",
+          has: blogHost,
+          destination: "/b/:slug",
+        },
+      ],
+    };
+  },
   // Endereços antigos do WordPress que mudaram de nome (mantém o Google e links salvos funcionando).
   async redirects() {
     const map: Record<string, string> = {

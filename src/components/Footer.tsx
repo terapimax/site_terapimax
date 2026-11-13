@@ -19,7 +19,7 @@ const POLITICAS = [
   { href: "/politica-de-cookies", label: "Política de cookies" },
 ];
 
-export default function Footer({ settings }: { settings: Settings }) {
+export default function Footer({ settings, base = "" }: { settings: Settings; base?: string }) {
   const phone = settings.whatsapp.replace(/^55(\d{2})(\d{4,5})(\d{4})$/, "($1) $2-$3");
   return (
     <footer className="mt-16 bg-brand-900 text-white/85">
@@ -35,7 +35,7 @@ export default function Footer({ settings }: { settings: Settings }) {
           <h2 className="mb-3 font-semibold text-white">Institucional</h2>
           <ul className="space-y-2 text-sm">
             {INSTITUCIONAL.map((l) => (
-              <li key={l.href}><Link href={l.href} className="hover:text-white">{l.label}</Link></li>
+              <li key={l.href}><Link href={base ? `${base}${l.href}` : l.href} className="hover:text-white">{l.label}</Link></li>
             ))}
           </ul>
         </div>
@@ -43,7 +43,7 @@ export default function Footer({ settings }: { settings: Settings }) {
           <h2 className="mb-3 font-semibold text-white">Políticas</h2>
           <ul className="space-y-2 text-sm">
             {POLITICAS.map((l) => (
-              <li key={l.href}><Link href={l.href} className="hover:text-white">{l.label}</Link></li>
+              <li key={l.href}><Link href={base ? `${base}${l.href}` : l.href} className="hover:text-white">{l.label}</Link></li>
             ))}
           </ul>
         </div>

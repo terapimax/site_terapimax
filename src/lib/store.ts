@@ -158,7 +158,8 @@ export async function getPages(): Promise<Page[]> {
 }
 
 export async function getPosts(): Promise<Post[]> {
-  if (!(await dbAvailable())) return SEED.posts.filter((p) => p.published);
+  if (!(await dbAvailable()))
+    return SEED.posts.filter((p) => p.published).sort((a, b) => b.published_at.localeCompare(a.published_at));
   const { data } = await supabasePublic()
     .from("posts")
     .select("slug,title,excerpt,cover_url,published,published_at")
